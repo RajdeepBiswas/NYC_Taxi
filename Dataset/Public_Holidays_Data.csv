@@ -1,0 +1,1001 @@
+countryOrRegion,holidayName,normalizeHolidayName,isPaidTimeOff,countryRegionCode,date
+Argentina,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,AR,1970-01-01T00:00:00.0000000
+Australia,New Year's Day,New Year's Day,,AU,1970-01-01T00:00:00.0000000
+Austria,Neujahr,Neujahr,,AT,1970-01-01T00:00:00.0000000
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1970-01-01T00:00:00.0000000
+Brazil,Ano novo,Ano novo,,BR,1970-01-01T00:00:00.0000000
+Canada,New Year's Day,New Year's Day,,CA,1970-01-01T00:00:00.0000000
+Colombia,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,CO,1970-01-01T00:00:00.0000000
+Croatia,Nova Godina,Nova Godina,,HR,1970-01-01T00:00:00.0000000
+Czech,NovÃ½ rok,NovÃ½ rok,,CZ,1970-01-01T00:00:00.0000000
+Denmark,NytÃ¥rsdag,NytÃ¥rsdag,,DK,1970-01-01T00:00:00.0000000
+Finland,UudenvuodenpÃ¤ivÃ¤,UudenvuodenpÃ¤ivÃ¤,,FI,1970-01-01T00:00:00.0000000
+France,Jour de l'an,Jour de l'an,,FR,1970-01-01T00:00:00.0000000
+Hungary,ÃšjÃ©v,ÃšjÃ©v,,HU,1970-01-01T00:00:00.0000000
+Italy,Capodanno,Capodanno,,IT,1970-01-01T00:00:00.0000000
+Japan,å…ƒæ—¥,å…ƒæ—¥,,JP,1970-01-01T00:00:00.0000000
+Mexico,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,MX,1970-01-01T00:00:00.0000000
+Netherlands,Nieuwjaarsdag,Nieuwjaarsdag,,NL,1970-01-01T00:00:00.0000000
+New Zealand,New Year's Day,New Year's Day,,NZ,1970-01-01T00:00:00.0000000
+Norway,FÃ¸rste nyttÃ¥rsdag,FÃ¸rste nyttÃ¥rsdag,,NO,1970-01-01T00:00:00.0000000
+Poland,Nowy Rok,Nowy Rok,,PL,1970-01-01T00:00:00.0000000
+Portugal,Ano Novo,Ano Novo,,PT,1970-01-01T00:00:00.0000000
+South Africa,New Year's Day,New Year's Day,,ZA,1970-01-01T00:00:00.0000000
+Spain,AÃ±o nuevo,AÃ±o nuevo,,ES,1970-01-01T00:00:00.0000000
+Sweden,NyÃ¥rsdagen,NyÃ¥rsdagen,,SE,1970-01-01T00:00:00.0000000
+Switzerland,Neujahrestag,Neujahrestag,,CH,1970-01-01T00:00:00.0000000
+Ukraine,ÐÐ¾Ð²Ð¸Ð¹ Ñ€Ñ–Ðº,ÐÐ¾Ð²Ð¸Ð¹ Ñ€Ñ–Ðº,,UA,1970-01-01T00:00:00.0000000
+United States,New Year's Day,New Year's Day,True,US,1970-01-01T00:00:00.0000000
+New Zealand,Day after New Year's Day,Day after New Year's Day,,NZ,1970-01-02T00:00:00.0000000
+Scotland,New Year Holiday,New Year Holiday,,,1970-01-02T00:00:00.0000000
+United Kingdom,New Year Holiday [Scotland],New Year Holiday,True,GB,1970-01-02T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-01-04T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-01-04T00:00:00.0000000
+Austria,Heilige Drei KÃ¶nige,Heilige Drei KÃ¶nige,,AT,1970-01-06T00:00:00.0000000
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1970-01-06T00:00:00.0000000
+Finland,Loppiainen,Loppiainen,,FI,1970-01-06T00:00:00.0000000
+Italy,Epifania del Signore,Epifania del Signore,,IT,1970-01-06T00:00:00.0000000
+Spain,EpifanÃ­a del SeÃ±or,EpifanÃ­a del SeÃ±or,,ES,1970-01-06T00:00:00.0000000
+Sweden,Trettondedag jul,Trettondedag jul,,SE,1970-01-06T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-01-11T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-01-11T00:00:00.0000000
+Colombia,DÃ­a de los Reyes Magos [Epiphany](Observed),DÃ­a de los Reyes Magos [Epiphany],,CO,1970-01-12T00:00:00.0000000
+India,Makar Sankranti / Pongal,Makar Sankranti / Pongal,False,IN,1970-01-14T00:00:00.0000000
+Japan,æˆäººã®æ—¥,æˆäººã®æ—¥,,JP,1970-01-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-01-18T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-01-18T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-01-25T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-01-25T00:00:00.0000000
+Australia,Australia Day,Australia Day,,AU,1970-01-26T00:00:00.0000000
+India,Republic Day,Republic Day,True,IN,1970-01-26T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-02-01T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-02-01T00:00:00.0000000
+Mexico,DÃ­a de la ConstituciÃ³n [Constitution Day],DÃ­a de la ConstituciÃ³n [Constitution Day],,MX,1970-02-05T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-02-08T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-02-08T00:00:00.0000000
+Argentina,DÃ­a de Carnaval [Carnival's Day],DÃ­a de Carnaval [Carnival's Day],,AR,1970-02-09T00:00:00.0000000
+Argentina,DÃ­a de Carnaval [Carnival's Day],DÃ­a de Carnaval [Carnival's Day],,AR,1970-02-10T00:00:00.0000000
+Brazil,Carnaval,Carnaval,,BR,1970-02-10T00:00:00.0000000
+Brazil,Quarta-feira de cinzas (InÃ­cio da Quaresma),Quarta-feira de cinzas (InÃ­cio da Quaresma),,BR,1970-02-11T00:00:00.0000000
+Japan,å»ºå›½è¨˜å¿µã®æ—¥,å»ºå›½è¨˜å¿µã®æ—¥,,JP,1970-02-11T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-02-15T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-02-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-02-22T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-02-22T00:00:00.0000000
+United States,Washington's Birthday,Washington's Birthday,True,US,1970-02-22T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-03-01T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-03-01T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-03-08T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-03-08T00:00:00.0000000
+Ukraine,ÐœÑ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¸Ð¹ Ð¶Ñ–Ð½Ð¾Ñ‡Ð¸Ð¹ Ð´ÐµÐ½ÑŒ,ÐœÑ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¸Ð¹ Ð¶Ñ–Ð½Ð¾Ñ‡Ð¸Ð¹ Ð´ÐµÐ½ÑŒ,,UA,1970-03-08T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-03-15T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-03-15T00:00:00.0000000
+Ireland,St. Patrick's Day,St. Patrick's Day,,IE,1970-03-17T00:00:00.0000000
+Northern Ireland,St. Patrick's Day,St. Patrick's Day,,,1970-03-17T00:00:00.0000000
+United Kingdom,St. Patrick's Day [Northern Ireland],St. Patrick's Day,False,GB,1970-03-17T00:00:00.0000000
+Hungary,A TanÃ¡cskÃ¶ztÃ¡rsasÃ¡g kikiÃ¡ltÃ¡sÃ¡nak Ã¼nnepe,A TanÃ¡cskÃ¶ztÃ¡rsasÃ¡g kikiÃ¡ltÃ¡sÃ¡nak Ã¼nnepe,,HU,1970-03-21T00:00:00.0000000
+Japan,æ˜¥åˆ†ã®æ—¥,æ˜¥åˆ†ã®æ—¥,,JP,1970-03-21T00:00:00.0000000
+Mexico,Natalicio de Benito JuÃ¡rez [Benito JuÃ¡rez's birthday],Natalicio de Benito JuÃ¡rez [Benito JuÃ¡rez's birthday],,MX,1970-03-21T00:00:00.0000000
+Denmark,PalmesÃ¸ndag,PalmesÃ¸ndag,,DK,1970-03-22T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-03-22T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-03-22T00:00:00.0000000
+Colombia,DÃ­a de San JosÃ© [Saint Joseph's Day](Observed),DÃ­a de San JosÃ© [Saint Joseph's Day],,CO,1970-03-23T00:00:00.0000000
+Argentina,DÃ­a Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],DÃ­a Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],,AR,1970-03-24T00:00:00.0000000
+Argentina,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],,AR,1970-03-26T00:00:00.0000000
+Colombia,Jueves Santo [Maundy Thursday],Jueves Santo [Maundy Thursday],,CO,1970-03-26T00:00:00.0000000
+Denmark,SkÃ¦rtorsdag,SkÃ¦rtorsdag,,DK,1970-03-26T00:00:00.0000000
+Norway,SkjÃ¦rtorsdag,SkjÃ¦rtorsdag,,NO,1970-03-26T00:00:00.0000000
+Argentina,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],,AR,1970-03-27T00:00:00.0000000
+Australia,Good Friday,Good Friday,,AU,1970-03-27T00:00:00.0000000
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1970-03-27T00:00:00.0000000
+Canada,Good Friday,Good Friday,,CA,1970-03-27T00:00:00.0000000
+Colombia,Viernes Santo [Good Friday],Viernes Santo [Good Friday],,CO,1970-03-27T00:00:00.0000000
+Denmark,Langfredag,Langfredag,,DK,1970-03-27T00:00:00.0000000
+England,Good Friday,Good Friday,,,1970-03-27T00:00:00.0000000
+Finland,PitkÃ¤perjantai,PitkÃ¤perjantai,,FI,1970-03-27T00:00:00.0000000
+Isle of Man,Good Friday,Good Friday,,IM,1970-03-27T00:00:00.0000000
+Netherlands,Goede Vrijdag,Goede Vrijdag,,NL,1970-03-27T00:00:00.0000000
+New Zealand,Good Friday,Good Friday,,NZ,1970-03-27T00:00:00.0000000
+Northern Ireland,Good Friday,Good Friday,,,1970-03-27T00:00:00.0000000
+Norway,Langfredag,Langfredag,,NO,1970-03-27T00:00:00.0000000
+Portugal,Sexta-feira Santa,Sexta-feira Santa,,PT,1970-03-27T00:00:00.0000000
+Scotland,Good Friday,Good Friday,,,1970-03-27T00:00:00.0000000
+South Africa,Good Friday,Good Friday,,ZA,1970-03-27T00:00:00.0000000
+Sweden,LÃ¥ngfredagen,LÃ¥ngfredagen,,SE,1970-03-27T00:00:00.0000000
+Switzerland,Karfreitag,Karfreitag,,CH,1970-03-27T00:00:00.0000000
+United Kingdom,Good Friday,Good Friday,True,GB,1970-03-27T00:00:00.0000000
+Wales,Good Friday,Good Friday,,,1970-03-27T00:00:00.0000000
+Argentina,DÃ­a de Pascuas [Easter Day],DÃ­a de Pascuas [Easter Day],,AR,1970-03-29T00:00:00.0000000
+Belgium,Pasen,Pasen,,BE,1970-03-29T00:00:00.0000000
+Brazil,PÃ¡scoa,PÃ¡scoa,,BR,1970-03-29T00:00:00.0000000
+Croatia,Uskrs,Uskrs,,HR,1970-03-29T00:00:00.0000000
+Denmark,PÃ¥skedag,PÃ¥skedag,,DK,1970-03-29T00:00:00.0000000
+Finland,PÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,PÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,,FI,1970-03-29T00:00:00.0000000
+Hungary,HÃºsvÃ©t,HÃºsvÃ©t,,HU,1970-03-29T00:00:00.0000000
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,,IT,1970-03-29T00:00:00.0000000
+Netherlands,Eerste paasdag,Eerste paasdag,,NL,1970-03-29T00:00:00.0000000
+Norway,"FÃ¸rste pÃ¥skedag, SÃ¸ndag","FÃ¸rste pÃ¥skedag, SÃ¸ndag",,NO,1970-03-29T00:00:00.0000000
+Poland,Niedziela Wielkanocna,Niedziela Wielkanocna,,PL,1970-03-29T00:00:00.0000000
+Portugal,PÃ¡scoa,PÃ¡scoa,,PT,1970-03-29T00:00:00.0000000
+Sweden,"PÃ¥skdagen, SÃ¶ndag","PÃ¥skdagen, SÃ¶ndag",,SE,1970-03-29T00:00:00.0000000
+Switzerland,Ostern,Ostern,,CH,1970-03-29T00:00:00.0000000
+Australia,Easter Monday,Easter Monday,,AU,1970-03-30T00:00:00.0000000
+Austria,Ostermontag,Ostermontag,,AT,1970-03-30T00:00:00.0000000
+Belgium,Paasmaandag,Paasmaandag,,BE,1970-03-30T00:00:00.0000000
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1970-03-30T00:00:00.0000000
+Czech,VelikonoÄnÃ­ pondÄ›lÃ­,VelikonoÄnÃ­ pondÄ›lÃ­,,CZ,1970-03-30T00:00:00.0000000
+Denmark,Anden pÃ¥skedag,Anden pÃ¥skedag,,DK,1970-03-30T00:00:00.0000000
+England,Easter Monday,Easter Monday,,,1970-03-30T00:00:00.0000000
+Finland,2. pÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,2. pÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,,FI,1970-03-30T00:00:00.0000000
+France,Lundi de PÃ¢ques,Lundi de PÃ¢ques,,FR,1970-03-30T00:00:00.0000000
+Hungary,HÃºsvÃ©t HÃ©tfÅ‘,HÃºsvÃ©t HÃ©tfÅ‘,,HU,1970-03-30T00:00:00.0000000
+Ireland,Easter Monday,Easter Monday,,IE,1970-03-30T00:00:00.0000000
+Isle of Man,Easter Monday,Easter Monday,,IM,1970-03-30T00:00:00.0000000
+Italy,LunedÃ¬ dell'Angelo,LunedÃ¬ dell'Angelo,,IT,1970-03-30T00:00:00.0000000
+Netherlands,Tweede paasdag,Tweede paasdag,,NL,1970-03-30T00:00:00.0000000
+New Zealand,Easter Monday,Easter Monday,,NZ,1970-03-30T00:00:00.0000000
+Northern Ireland,Easter Monday,Easter Monday,,,1970-03-30T00:00:00.0000000
+Norway,Andre pÃ¥skedag,Andre pÃ¥skedag,,NO,1970-03-30T00:00:00.0000000
+Poland,PoniedziaÅ‚ek Wielkanocny,PoniedziaÅ‚ek Wielkanocny,,PL,1970-03-30T00:00:00.0000000
+South Africa,Easter Monday,Easter Monday,,ZA,1970-03-30T00:00:00.0000000
+Sweden,Annandag pÃ¥sk,Annandag pÃ¥sk,,SE,1970-03-30T00:00:00.0000000
+Switzerland,Ostermontag,Ostermontag,,CH,1970-03-30T00:00:00.0000000
+United Kingdom,"Easter Monday [England, Wales, Northern Ireland]",Easter Monday,True,GB,1970-03-30T00:00:00.0000000
+Wales,Easter Monday,Easter Monday,,,1970-03-30T00:00:00.0000000
+Argentina,DÃ­a del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],DÃ­a del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],,AR,1970-04-02T00:00:00.0000000
+Hungary,A felszabadulÃ¡s Ã¼nnepe,A felszabadulÃ¡s Ã¼nnepe,,HU,1970-04-04T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-04-05T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-04-05T00:00:00.0000000
+South Africa,Van Riebeeck's Day,Van Riebeeck's Day,,ZA,1970-04-06T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-04-12T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-04-12T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-04-19T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-04-19T00:00:00.0000000
+Brazil,Tiradentes,Tiradentes,,BR,1970-04-21T00:00:00.0000000
+Denmark,Store bededag,Store bededag,,DK,1970-04-24T00:00:00.0000000
+Australia,Anzac Day,Anzac Day,,AU,1970-04-25T00:00:00.0000000
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1970-04-25T00:00:00.0000000
+New Zealand,Anzac Day,Anzac Day,,NZ,1970-04-25T00:00:00.0000000
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1970-04-25T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-04-26T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-04-26T00:00:00.0000000
+Japan,å¤©çš‡èª•ç”Ÿæ—¥,å¤©çš‡èª•ç”Ÿæ—¥,,JP,1970-04-29T00:00:00.0000000
+Netherlands,Koninginnedag,Koninginnedag,,NL,1970-04-30T00:00:00.0000000
+Argentina,DÃ­a del Trabajo [Labour Day],DÃ­a del Trabajo [Labour Day],,AR,1970-05-01T00:00:00.0000000
+Austria,Staatsfeiertag,Staatsfeiertag,,AT,1970-05-01T00:00:00.0000000
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1970-05-01T00:00:00.0000000
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1970-05-01T00:00:00.0000000
+Colombia,DÃ­a del Trabajo [Labour Day],DÃ­a del Trabajo [Labour Day],,CO,1970-05-01T00:00:00.0000000
+Croatia,MeÄ‘unarodni praznik rada,MeÄ‘unarodni praznik rada,,HR,1970-05-01T00:00:00.0000000
+Czech,SvÃ¡tek prÃ¡ce,SvÃ¡tek prÃ¡ce,,CZ,1970-05-01T00:00:00.0000000
+Finland,Vappu,Vappu,,FI,1970-05-01T00:00:00.0000000
+France,FÃªte du Travail,FÃªte du Travail,,FR,1970-05-01T00:00:00.0000000
+Hungary,A Munka Ã¼nnepe,A Munka Ã¼nnepe,,HU,1970-05-01T00:00:00.0000000
+India,Labour Day,Labour Day,False,IN,1970-05-01T00:00:00.0000000
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,,IT,1970-05-01T00:00:00.0000000
+Mexico,DÃ­a del Trabajo [Labour Day],DÃ­a del Trabajo [Labour Day],,MX,1970-05-01T00:00:00.0000000
+Norway,Arbeidernes dag,Arbeidernes dag,,NO,1970-05-01T00:00:00.0000000
+Poland,ÅšwiÄ™to PaÅ„stwowe,ÅšwiÄ™to PaÅ„stwowe,,PL,1970-05-01T00:00:00.0000000
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1970-05-01T00:00:00.0000000
+Spain,DÃ­a del Trabajador,DÃ­a del Trabajador,,ES,1970-05-01T00:00:00.0000000
+Sweden,FÃ¶rsta maj,FÃ¶rsta maj,,SE,1970-05-01T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,,UA,1970-05-01T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,,UA,1970-05-02T00:00:00.0000000
+Japan,æ†²æ³•è¨˜å¿µæ—¥,æ†²æ³•è¨˜å¿µæ—¥,,JP,1970-05-03T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-05-03T00:00:00.0000000
+Poland,ÅšwiÄ™to Narodowe Trzeciego Maja,ÅšwiÄ™to Narodowe Trzeciego Maja,,PL,1970-05-03T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-05-03T00:00:00.0000000
+Japan,ã“ã©ã‚‚ã®æ—¥,ã“ã©ã‚‚ã®æ—¥,,JP,1970-05-05T00:00:00.0000000
+Netherlands,Bevrijdingsdag,Bevrijdingsdag,,NL,1970-05-05T00:00:00.0000000
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1970-05-07T00:00:00.0000000
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1970-05-07T00:00:00.0000000
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1970-05-07T00:00:00.0000000
+Finland,Helatorstai,Helatorstai,,FI,1970-05-07T00:00:00.0000000
+France,Ascension,Ascension,,FR,1970-05-07T00:00:00.0000000
+Netherlands,Hemelvaart,Hemelvaart,,NL,1970-05-07T00:00:00.0000000
+Norway,Kristi himmelfartsdag,Kristi himmelfartsdag,,NO,1970-05-07T00:00:00.0000000
+Sweden,Kristi himmelsfÃ¤rdsdag,Kristi himmelsfÃ¤rdsdag,,SE,1970-05-07T00:00:00.0000000
+Switzerland,Auffahrt,Auffahrt,,CH,1970-05-07T00:00:00.0000000
+South Africa,Ascension Day,Ascension Day,,ZA,1970-05-08T00:00:00.0000000
+Czech,Den vÃ­tÄ›zstvÃ­ nad hitlerovskÃ½m faÅ¡ismem,Den vÃ­tÄ›zstvÃ­ nad hitlerovskÃ½m faÅ¡ismem,,CZ,1970-05-09T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ Ð¿ÐµÑ€ÐµÐ¼Ð¾Ð³Ð¸,Ð”ÐµÐ½ÑŒ Ð¿ÐµÑ€ÐµÐ¼Ð¾Ð³Ð¸,,UA,1970-05-09T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-05-10T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-05-10T00:00:00.0000000
+Colombia,AscensiÃ³n del seÃ±or [Ascension of Jesus](Observed),AscensiÃ³n del seÃ±or [Ascension of Jesus],,CO,1970-05-11T00:00:00.0000000
+Belgium,Pinksteren,Pinksteren,,BE,1970-05-17T00:00:00.0000000
+Denmark,Pinsedag,Pinsedag,,DK,1970-05-17T00:00:00.0000000
+Finland,HelluntaipÃ¤ivÃ¤,HelluntaipÃ¤ivÃ¤,,FI,1970-05-17T00:00:00.0000000
+Hungary,PÃ¼nkÃ¶sd,PÃ¼nkÃ¶sd,,HU,1970-05-17T00:00:00.0000000
+Netherlands,Eerste Pinksterdag,Eerste Pinksterdag,,NL,1970-05-17T00:00:00.0000000
+Norway,"FÃ¸rste pinsedag, Grunnlovsdag, SÃ¸ndag","FÃ¸rste pinsedag, Grunnlovsdag, SÃ¸ndag",,NO,1970-05-17T00:00:00.0000000
+Poland,Zielone ÅšwiÄ…tki,Zielone ÅšwiÄ…tki,,PL,1970-05-17T00:00:00.0000000
+Sweden,"Pingstdagen, SÃ¶ndag","Pingstdagen, SÃ¶ndag",,SE,1970-05-17T00:00:00.0000000
+Switzerland,Pfingsten,Pfingsten,,CH,1970-05-17T00:00:00.0000000
+Austria,Pfingstmontag,Pfingstmontag,,AT,1970-05-18T00:00:00.0000000
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1970-05-18T00:00:00.0000000
+Canada,Victoria Day,Victoria Day,,CA,1970-05-18T00:00:00.0000000
+Denmark,Anden pinsedag,Anden pinsedag,,DK,1970-05-18T00:00:00.0000000
+France,Lundi de PentecÃ´te,Lundi de PentecÃ´te,,FR,1970-05-18T00:00:00.0000000
+Netherlands,Tweede Pinksterdag,Tweede Pinksterdag,,NL,1970-05-18T00:00:00.0000000
+Norway,Andre pinsedag,Andre pinsedag,,NO,1970-05-18T00:00:00.0000000
+Sweden,Annandag pingst,Annandag pingst,,SE,1970-05-18T00:00:00.0000000
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1970-05-18T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-05-24T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-05-24T00:00:00.0000000
+Argentina,DÃ­a de la Revolucion de Mayo [May Revolution Day],DÃ­a de la Revolucion de Mayo [May Revolution Day],,AR,1970-05-25T00:00:00.0000000
+Austria,Fronleichnam,Fronleichnam,,AT,1970-05-28T00:00:00.0000000
+Brazil,Corpus Christi,Corpus Christi,,BR,1970-05-28T00:00:00.0000000
+Croatia,Tijelovo,Tijelovo,,HR,1970-05-28T00:00:00.0000000
+Poland,DzieÅ„ BoÅ¼ego CiaÅ‚a,DzieÅ„ BoÅ¼ego CiaÅ‚a,,PL,1970-05-28T00:00:00.0000000
+Portugal,Corpo de Deus,Corpo de Deus,,PT,1970-05-28T00:00:00.0000000
+United States,Memorial Day,Memorial Day,True,US,1970-05-30T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-05-31T00:00:00.0000000
+South Africa,Republic Day,Republic Day,,ZA,1970-05-31T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-05-31T00:00:00.0000000
+Colombia,Corpus Christi [Corpus Christi](Observed),Corpus Christi [Corpus Christi],,CO,1970-06-01T00:00:00.0000000
+Ireland,June Bank Holiday,June Bank Holiday,,IE,1970-06-01T00:00:00.0000000
+New Zealand,Queen's Birthday,Queen's Birthday,,NZ,1970-06-01T00:00:00.0000000
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1970-06-02T00:00:00.0000000
+Isle of Man,TT Bank Holiday,TT Bank Holiday,,IM,1970-06-05T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-06-07T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-06-07T00:00:00.0000000
+Colombia,Sagrado CorazÃ³n [Sacred Heart](Observed),Sagrado CorazÃ³n [Sacred Heart],,CO,1970-06-08T00:00:00.0000000
+Portugal,Dia de Portugal,Dia de Portugal,,PT,1970-06-10T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-06-14T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-06-14T00:00:00.0000000
+Argentina,DÃ­a Pase a la Inmortalidad del General MartÃ­n Miguel de GÃ¼emes [Day Pass to the Immortality of General MartÃ­n Miguel de GÃ¼emes],DÃ­a Pase a la Inmortalidad del General MartÃ­n Miguel de GÃ¼emes [Day Pass to the Immortality of General MartÃ­n Miguel de GÃ¼emes],,AR,1970-06-17T00:00:00.0000000
+Finland,Juhannusaatto,Juhannusaatto,,FI,1970-06-19T00:00:00.0000000
+Sweden,Midsommarafton,Midsommarafton,,SE,1970-06-19T00:00:00.0000000
+Argentina,DÃ­a Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],DÃ­a Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],,AR,1970-06-20T00:00:00.0000000
+Finland,JuhannuspÃ¤ivÃ¤,JuhannuspÃ¤ivÃ¤,,FI,1970-06-20T00:00:00.0000000
+Sweden,Midsommardagen,Midsommardagen,,SE,1970-06-20T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-06-21T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-06-21T00:00:00.0000000
+Croatia,Dan antifaÅ¡istiÄke borbe,Dan antifaÅ¡istiÄke borbe,,HR,1970-06-22T00:00:00.0000000
+Croatia,Dan drÅ¾avnosti,Dan drÅ¾avnosti,,HR,1970-06-25T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-06-28T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-06-28T00:00:00.0000000
+Colombia,San Pedro y San Pablo [Saint Peter and Saint Paul],San Pedro y San Pablo [Saint Peter and Saint Paul],,CO,1970-06-29T00:00:00.0000000
+Canada,Dominion Day,Dominion Day,,CA,1970-07-01T00:00:00.0000000
+United States,Independence Day (Observed),Independence Day,True,US,1970-07-03T00:00:00.0000000
+United States,Independence Day,Independence Day,True,US,1970-07-04T00:00:00.0000000
+Czech,Den slovanskÃ½ch vÄ›rozvÄ›stÅ¯ Cyrila a MetodÄ›je,Den slovanskÃ½ch vÄ›rozvÄ›stÅ¯ Cyrila a MetodÄ›je,,CZ,1970-07-05T00:00:00.0000000
+Isle of Man,Tynwald Day,Tynwald Day,,IM,1970-07-05T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-07-05T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-07-05T00:00:00.0000000
+Czech,Den upÃ¡lenÃ­ mistra Jana Husa,Den upÃ¡lenÃ­ mistra Jana Husa,,CZ,1970-07-06T00:00:00.0000000
+Argentina,DÃ­a de la Independencia [Independence Day],DÃ­a de la Independencia [Independence Day],,AR,1970-07-09T00:00:00.0000000
+South Africa,Family Day,Family Day,,ZA,1970-07-10T00:00:00.0000000
+Northern Ireland,Battle of the Boyne,Battle of the Boyne,,,1970-07-12T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-07-12T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-07-12T00:00:00.0000000
+United Kingdom,Battle of the Boyne [Northern Ireland],Battle of the Boyne,False,GB,1970-07-12T00:00:00.0000000
+France,FÃªte nationale,FÃªte nationale,,FR,1970-07-14T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-07-19T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-07-19T00:00:00.0000000
+Colombia,DÃ­a de la Independencia [Independence Day],DÃ­a de la Independencia [Independence Day],,CO,1970-07-20T00:00:00.0000000
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1970-07-21T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-07-26T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-07-26T00:00:00.0000000
+Switzerland,Nationalfeiertag,Nationalfeiertag,,CH,1970-08-01T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-08-02T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-08-02T00:00:00.0000000
+Canada,Civic Holiday,Civic Holiday,,CA,1970-08-03T00:00:00.0000000
+Ireland,Summer Bank Holiday,Summer Bank Holiday,,IE,1970-08-03T00:00:00.0000000
+Scotland,Summer Bank Holiday,Summer Bank Holiday,,,1970-08-03T00:00:00.0000000
+United Kingdom,Summer Bank Holiday [Scotland],Summer Bank Holiday,False,GB,1970-08-03T00:00:00.0000000
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,,HR,1970-08-05T00:00:00.0000000
+Colombia,Batalla de BoyacÃ¡ [Battle of BoyacÃ¡],Batalla de BoyacÃ¡ [Battle of BoyacÃ¡],,CO,1970-08-07T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-08-09T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-08-09T00:00:00.0000000
+Austria,MariÃ¤ Himmelfahrt,MariÃ¤ Himmelfahrt,,AT,1970-08-15T00:00:00.0000000
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1970-08-15T00:00:00.0000000
+Croatia,Velika Gospa,Velika Gospa,,HR,1970-08-15T00:00:00.0000000
+France,Assomption,Assomption,,FR,1970-08-15T00:00:00.0000000
+India,Independence Day,Independence Day,True,IN,1970-08-15T00:00:00.0000000
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1970-08-15T00:00:00.0000000
+Poland,WniebowziÄ™cie NajÅ›wiÄ™tszej Marii Panny,WniebowziÄ™cie NajÅ›wiÄ™tszej Marii Panny,,PL,1970-08-15T00:00:00.0000000
+Portugal,AssunÃ§Ã£o de Nossa Senhora,AssunÃ§Ã£o de Nossa Senhora,,PT,1970-08-15T00:00:00.0000000
+Spain,AsunciÃ³n de la Virgen,AsunciÃ³n de la Virgen,,ES,1970-08-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-08-16T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-08-16T00:00:00.0000000
+Argentina,DÃ­a Pase a la Inmortalidad del General D. JosÃ© de San Martin [Day Pass to the Immortality of General D. JosÃ© de San Martin],DÃ­a Pase a la Inmortalidad del General D. JosÃ© de San Martin [Day Pass to the Immortality of General D. JosÃ© de San Martin],,AR,1970-08-17T00:00:00.0000000
+Colombia,La AsunciÃ³n [Assumption of Mary](Observed),La AsunciÃ³n [Assumption of Mary],,CO,1970-08-17T00:00:00.0000000
+Hungary,A kenyÃ©r Ã¼nnepe,A kenyÃ©r Ã¼nnepe,,HU,1970-08-20T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-08-23T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-08-23T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-08-30T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-08-30T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-09-06T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-09-06T00:00:00.0000000
+Brazil,IndependÃªncia do Brasil,IndependÃªncia do Brasil,,BR,1970-09-07T00:00:00.0000000
+Canada,Labour Day,Labour Day,,CA,1970-09-07T00:00:00.0000000
+South Africa,Settlers' Day,Settlers' Day,,ZA,1970-09-07T00:00:00.0000000
+United States,Labor Day,Labor Day,True,US,1970-09-07T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-09-13T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-09-13T00:00:00.0000000
+Japan,æ•¬è€ã®æ—¥,æ•¬è€ã®æ—¥,,JP,1970-09-15T00:00:00.0000000
+Mexico,DÃ­a de la Independencia [Independence Day],DÃ­a de la Independencia [Independence Day],,MX,1970-09-16T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-09-20T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-09-20T00:00:00.0000000
+Japan,ç§‹åˆ†ã®æ—¥,ç§‹åˆ†ã®æ—¥,,JP,1970-09-23T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-09-27T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-09-27T00:00:00.0000000
+India,Gandhi Jayanti,Gandhi Jayanti,True,IN,1970-10-02T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-10-04T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-10-04T00:00:00.0000000
+Portugal,ImplantaÃ§Ã£o da RepÃºblica,ImplantaÃ§Ã£o da RepÃºblica,,PT,1970-10-05T00:00:00.0000000
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1970-10-08T00:00:00.0000000
+Japan,ä½“è‚²ã®æ—¥,ä½“è‚²ã®æ—¥,,JP,1970-10-10T00:00:00.0000000
+South Africa,Kruger Day,Kruger Day,,ZA,1970-10-10T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-10-11T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-10-11T00:00:00.0000000
+Argentina,DÃ­a de la Raza [Columbus day],DÃ­a de la Raza [Columbus day],,AR,1970-10-12T00:00:00.0000000
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1970-10-12T00:00:00.0000000
+Canada,Thanksgiving,Thanksgiving,,CA,1970-10-12T00:00:00.0000000
+Colombia,Descubrimiento de AmÃ©rica [Discovery of America],Descubrimiento de AmÃ©rica [Discovery of America],,CO,1970-10-12T00:00:00.0000000
+Spain,DÃ­a de la Hispanidad,DÃ­a de la Hispanidad,,ES,1970-10-12T00:00:00.0000000
+United States,Columbus Day,Columbus Day,False,US,1970-10-12T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-10-18T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-10-18T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-10-25T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-10-25T00:00:00.0000000
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1970-10-26T00:00:00.0000000
+Ireland,October Bank Holiday,October Bank Holiday,,IE,1970-10-26T00:00:00.0000000
+New Zealand,Labour Day,Labour Day,,NZ,1970-10-26T00:00:00.0000000
+Czech,Den vzniku samostatnÃ©ho ÄeskoslovenskÃ©ho stÃ¡tu,Den vzniku samostatnÃ©ho ÄeskoslovenskÃ©ho stÃ¡tu,,CZ,1970-10-28T00:00:00.0000000
+Finland,PyhÃ¤inpÃ¤ivÃ¤,PyhÃ¤inpÃ¤ivÃ¤,,FI,1970-10-31T00:00:00.0000000
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1970-10-31T00:00:00.0000000
+Austria,Allerheiligen,Allerheiligen,,AT,1970-11-01T00:00:00.0000000
+Belgium,Allerheiligen,Allerheiligen,,BE,1970-11-01T00:00:00.0000000
+Croatia,Svi sveti,Svi sveti,,HR,1970-11-01T00:00:00.0000000
+France,Toussaint,Toussaint,,FR,1970-11-01T00:00:00.0000000
+Italy,Tutti i Santi,Tutti i Santi,,IT,1970-11-01T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-11-01T00:00:00.0000000
+Poland,UroczystoÅ›Ä‡ Wszystkich Å›wiÄ™tych,UroczystoÅ›Ä‡ Wszystkich Å›wiÄ™tych,,PL,1970-11-01T00:00:00.0000000
+Portugal,Dia de Todos os Santos,Dia de Todos os Santos,,PT,1970-11-01T00:00:00.0000000
+Spain,Todos los Santos,Todos los Santos,,ES,1970-11-01T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-11-01T00:00:00.0000000
+Brazil,Finados,Finados,,BR,1970-11-02T00:00:00.0000000
+Colombia,Dia de Todos los Santos [All Saint's Day](Observed),Dia de Todos los Santos [All Saint's Day],,CO,1970-11-02T00:00:00.0000000
+Japan,æ–‡åŒ–ã®æ—¥,æ–‡åŒ–ã®æ—¥,,JP,1970-11-03T00:00:00.0000000
+Hungary,A nagy oktÃ³beri szocialista forradalom Ã¼nnepe,A nagy oktÃ³beri szocialista forradalom Ã¼nnepe,,HU,1970-11-07T00:00:00.0000000
+Ukraine,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,,UA,1970-11-07T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-11-08T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-11-08T00:00:00.0000000
+Ukraine,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,,UA,1970-11-08T00:00:00.0000000
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1970-11-11T00:00:00.0000000
+France,Armistice 1918,Armistice 1918,,FR,1970-11-11T00:00:00.0000000
+United States,Veterans Day,Veterans Day,False,US,1970-11-11T00:00:00.0000000
+Brazil,ProclamaÃ§Ã£o da RepÃºblica,ProclamaÃ§Ã£o da RepÃºblica,,BR,1970-11-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-11-15T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-11-15T00:00:00.0000000
+Colombia,Independencia de Cartagena [Independence of Cartagena](Observed),Independencia de Cartagena [Independence of Cartagena],,CO,1970-11-16T00:00:00.0000000
+Mexico,DÃ­a de la RevoluciÃ³n [Revolution Day],DÃ­a de la RevoluciÃ³n [Revolution Day],,MX,1970-11-20T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-11-22T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-11-22T00:00:00.0000000
+Japan,å‹¤åŠ´æ„Ÿè¬ã®æ—¥,å‹¤åŠ´æ„Ÿè¬ã®æ—¥,,JP,1970-11-23T00:00:00.0000000
+United States,Thanksgiving,Thanksgiving,True,US,1970-11-26T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-11-29T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-11-29T00:00:00.0000000
+Scotland,St. Andrew's Day,St. Andrew's Day,,,1970-11-30T00:00:00.0000000
+United Kingdom,St. Andrew's Day [Scotland],St. Andrew's Day,False,GB,1970-11-30T00:00:00.0000000
+Mexico,TransmisiÃ³n del Poder Ejecutivo Federal [Change of Federal Government],TransmisiÃ³n del Poder Ejecutivo Federal [Change of Federal Government],,MX,1970-12-01T00:00:00.0000000
+Portugal,RestauraÃ§Ã£o da IndependÃªncia,RestauraÃ§Ã£o da IndependÃªncia,,PT,1970-12-01T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ ÐšÐ¾Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ†Ñ–Ñ— Ð¡Ð Ð¡Ð ,Ð”ÐµÐ½ÑŒ ÐšÐ¾Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ†Ñ–Ñ— Ð¡Ð Ð¡Ð ,,UA,1970-12-05T00:00:00.0000000
+Finland,ItsenÃ¤isyyspÃ¤ivÃ¤,ItsenÃ¤isyyspÃ¤ivÃ¤,,FI,1970-12-06T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-12-06T00:00:00.0000000
+Spain,DÃ­a de la constituciÃ³n EspaÃ±ola,DÃ­a de la constituciÃ³n EspaÃ±ola,,ES,1970-12-06T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-12-06T00:00:00.0000000
+Argentina,La Inmaculada ConcepciÃ³n [Immaculate Conception],La Inmaculada ConcepciÃ³n [Immaculate Conception],,AR,1970-12-08T00:00:00.0000000
+Austria,MariÃ¤ EmpfÃ¤ngnis,MariÃ¤ EmpfÃ¤ngnis,,AT,1970-12-08T00:00:00.0000000
+Colombia,La Inmaculada ConcepciÃ³n [Immaculate Conception],La Inmaculada ConcepciÃ³n [Immaculate Conception],,CO,1970-12-08T00:00:00.0000000
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1970-12-08T00:00:00.0000000
+Portugal,Imaculada ConceiÃ§Ã£o,Imaculada ConceiÃ§Ã£o,,PT,1970-12-08T00:00:00.0000000
+Spain,La Inmaculada ConcepciÃ³n,La Inmaculada ConcepciÃ³n,,ES,1970-12-08T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-12-13T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-12-13T00:00:00.0000000
+South Africa,Day of the Covenant,Day of the Covenant,,ZA,1970-12-16T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-12-20T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-12-20T00:00:00.0000000
+Finland,Jouluaatto,Jouluaatto,,FI,1970-12-24T00:00:00.0000000
+Sweden,Julafton,Julafton,,SE,1970-12-24T00:00:00.0000000
+Argentina,Navidad [Christmas],Navidad [Christmas],,AR,1970-12-25T00:00:00.0000000
+Australia,Christmas Day,Christmas Day,,AU,1970-12-25T00:00:00.0000000
+Austria,Christtag,Christtag,,AT,1970-12-25T00:00:00.0000000
+Belgium,Kerstmis,Kerstmis,,BE,1970-12-25T00:00:00.0000000
+Brazil,Natal,Natal,,BR,1970-12-25T00:00:00.0000000
+Canada,Christmas Day,Christmas Day,,CA,1970-12-25T00:00:00.0000000
+Colombia,Navidad [Christmas],Navidad [Christmas],,CO,1970-12-25T00:00:00.0000000
+Croatia,BoÅ¾iÄ‡,BoÅ¾iÄ‡,,HR,1970-12-25T00:00:00.0000000
+Czech,1. svÃ¡tek vÃ¡noÄnÃ­,1. svÃ¡tek vÃ¡noÄnÃ­,,CZ,1970-12-25T00:00:00.0000000
+Denmark,Juledag,Juledag,,DK,1970-12-25T00:00:00.0000000
+England,Christmas Day,Christmas Day,,,1970-12-25T00:00:00.0000000
+Finland,JoulupÃ¤ivÃ¤,JoulupÃ¤ivÃ¤,,FI,1970-12-25T00:00:00.0000000
+France,NoÃ«l,NoÃ«l,,FR,1970-12-25T00:00:00.0000000
+Hungary,KarÃ¡csony,KarÃ¡csony,,HU,1970-12-25T00:00:00.0000000
+India,Christmas,Christmas,False,IN,1970-12-25T00:00:00.0000000
+Ireland,Christmas Day,Christmas Day,,IE,1970-12-25T00:00:00.0000000
+Isle of Man,Christmas Day,Christmas Day,,IM,1970-12-25T00:00:00.0000000
+Italy,Natale,Natale,,IT,1970-12-25T00:00:00.0000000
+Mexico,Navidad [Christmas],Navidad [Christmas],,MX,1970-12-25T00:00:00.0000000
+Netherlands,Eerste Kerstdag,Eerste Kerstdag,,NL,1970-12-25T00:00:00.0000000
+New Zealand,Christmas Day,Christmas Day,,NZ,1970-12-25T00:00:00.0000000
+Northern Ireland,Christmas Day,Christmas Day,,,1970-12-25T00:00:00.0000000
+Norway,FÃ¸rste juledag,FÃ¸rste juledag,,NO,1970-12-25T00:00:00.0000000
+Poland,BoÅ¼e Narodzenie (pierwszy dzieÅ„),BoÅ¼e Narodzenie (pierwszy dzieÅ„),,PL,1970-12-25T00:00:00.0000000
+Portugal,Dia de Natal,Dia de Natal,,PT,1970-12-25T00:00:00.0000000
+Scotland,Christmas Day,Christmas Day,,,1970-12-25T00:00:00.0000000
+South Africa,Christmas Day,Christmas Day,,ZA,1970-12-25T00:00:00.0000000
+Spain,Navidad,Navidad,,ES,1970-12-25T00:00:00.0000000
+Sweden,Juldagen,Juldagen,,SE,1970-12-25T00:00:00.0000000
+Switzerland,Weihnachten,Weihnachten,,CH,1970-12-25T00:00:00.0000000
+United Kingdom,Christmas Day,Christmas Day,True,GB,1970-12-25T00:00:00.0000000
+United States,Christmas Day,Christmas Day,True,US,1970-12-25T00:00:00.0000000
+Wales,Christmas Day,Christmas Day,,,1970-12-25T00:00:00.0000000
+Australia,Boxing Day,Boxing Day,,AU,1970-12-26T00:00:00.0000000
+Austria,Stefanitag,Stefanitag,,AT,1970-12-26T00:00:00.0000000
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1970-12-26T00:00:00.0000000
+Czech,2. svÃ¡tek vÃ¡noÄnÃ­,2. svÃ¡tek vÃ¡noÄnÃ­,,CZ,1970-12-26T00:00:00.0000000
+Denmark,Anden juledag,Anden juledag,,DK,1970-12-26T00:00:00.0000000
+England,Boxing Day,Boxing Day,,,1970-12-26T00:00:00.0000000
+Finland,TapaninpÃ¤ivÃ¤,TapaninpÃ¤ivÃ¤,,FI,1970-12-26T00:00:00.0000000
+Hungary,KarÃ¡csony mÃ¡snapja,KarÃ¡csony mÃ¡snapja,,HU,1970-12-26T00:00:00.0000000
+Ireland,Boxing Day,Boxing Day,,IE,1970-12-26T00:00:00.0000000
+Isle of Man,Boxing Day,Boxing Day,,IM,1970-12-26T00:00:00.0000000
+Italy,Santo Stefano,Santo Stefano,,IT,1970-12-26T00:00:00.0000000
+Netherlands,Tweede Kerstdag,Tweede Kerstdag,,NL,1970-12-26T00:00:00.0000000
+New Zealand,Boxing Day,Boxing Day,,NZ,1970-12-26T00:00:00.0000000
+Northern Ireland,Boxing Day,Boxing Day,,,1970-12-26T00:00:00.0000000
+Norway,Andre juledag,Andre juledag,,NO,1970-12-26T00:00:00.0000000
+Poland,BoÅ¼e Narodzenie (drugi dzieÅ„),BoÅ¼e Narodzenie (drugi dzieÅ„),,PL,1970-12-26T00:00:00.0000000
+Scotland,Boxing Day,Boxing Day,,,1970-12-26T00:00:00.0000000
+South Africa,Boxing Day,Boxing Day,,ZA,1970-12-26T00:00:00.0000000
+Sweden,Annandag jul,Annandag jul,,SE,1970-12-26T00:00:00.0000000
+United Kingdom,Boxing Day,Boxing Day,True,GB,1970-12-26T00:00:00.0000000
+Wales,Boxing Day,Boxing Day,,,1970-12-26T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1970-12-27T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1970-12-27T00:00:00.0000000
+Australia,Boxing Day (Observed),Boxing Day,,AU,1970-12-28T00:00:00.0000000
+Canada,Boxing Day (Observed),Boxing Day,,CA,1970-12-28T00:00:00.0000000
+England,Boxing Day (Observed),Boxing Day,,,1970-12-28T00:00:00.0000000
+Ireland,Boxing Day (Observed),Boxing Day,,IE,1970-12-28T00:00:00.0000000
+Isle of Man,Boxing Day (Observed),Boxing Day,,IM,1970-12-28T00:00:00.0000000
+New Zealand,Boxing Day (Observed),Boxing Day,,NZ,1970-12-28T00:00:00.0000000
+Northern Ireland,Boxing Day (Observed),Boxing Day,,,1970-12-28T00:00:00.0000000
+Scotland,Boxing Day (Observed),Boxing Day,,,1970-12-28T00:00:00.0000000
+United Kingdom,Boxing Day (Observed),Boxing Day,True,GB,1970-12-28T00:00:00.0000000
+Wales,Boxing Day (Observed),Boxing Day,,,1970-12-28T00:00:00.0000000
+Sweden,NyÃ¥rsafton,NyÃ¥rsafton,,SE,1970-12-31T00:00:00.0000000
+Argentina,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,AR,1971-01-01T00:00:00.0000000
+Australia,New Year's Day,New Year's Day,,AU,1971-01-01T00:00:00.0000000
+Austria,Neujahr,Neujahr,,AT,1971-01-01T00:00:00.0000000
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1971-01-01T00:00:00.0000000
+Brazil,Ano novo,Ano novo,,BR,1971-01-01T00:00:00.0000000
+Canada,New Year's Day,New Year's Day,,CA,1971-01-01T00:00:00.0000000
+Colombia,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,CO,1971-01-01T00:00:00.0000000
+Croatia,Nova Godina,Nova Godina,,HR,1971-01-01T00:00:00.0000000
+Czech,NovÃ½ rok,NovÃ½ rok,,CZ,1971-01-01T00:00:00.0000000
+Denmark,NytÃ¥rsdag,NytÃ¥rsdag,,DK,1971-01-01T00:00:00.0000000
+Finland,UudenvuodenpÃ¤ivÃ¤,UudenvuodenpÃ¤ivÃ¤,,FI,1971-01-01T00:00:00.0000000
+France,Jour de l'an,Jour de l'an,,FR,1971-01-01T00:00:00.0000000
+Hungary,ÃšjÃ©v,ÃšjÃ©v,,HU,1971-01-01T00:00:00.0000000
+Italy,Capodanno,Capodanno,,IT,1971-01-01T00:00:00.0000000
+Japan,å…ƒæ—¥,å…ƒæ—¥,,JP,1971-01-01T00:00:00.0000000
+Mexico,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,MX,1971-01-01T00:00:00.0000000
+Netherlands,Nieuwjaarsdag,Nieuwjaarsdag,,NL,1971-01-01T00:00:00.0000000
+New Zealand,New Year's Day,New Year's Day,,NZ,1971-01-01T00:00:00.0000000
+Norway,FÃ¸rste nyttÃ¥rsdag,FÃ¸rste nyttÃ¥rsdag,,NO,1971-01-01T00:00:00.0000000
+Poland,Nowy Rok,Nowy Rok,,PL,1971-01-01T00:00:00.0000000
+Portugal,Ano Novo,Ano Novo,,PT,1971-01-01T00:00:00.0000000
+South Africa,New Year's Day,New Year's Day,,ZA,1971-01-01T00:00:00.0000000
+Spain,AÃ±o nuevo,AÃ±o nuevo,,ES,1971-01-01T00:00:00.0000000
+Sweden,NyÃ¥rsdagen,NyÃ¥rsdagen,,SE,1971-01-01T00:00:00.0000000
+Switzerland,Neujahrestag,Neujahrestag,,CH,1971-01-01T00:00:00.0000000
+Ukraine,ÐÐ¾Ð²Ð¸Ð¹ Ñ€Ñ–Ðº,ÐÐ¾Ð²Ð¸Ð¹ Ñ€Ñ–Ðº,,UA,1971-01-01T00:00:00.0000000
+United States,New Year's Day,New Year's Day,True,US,1971-01-01T00:00:00.0000000
+New Zealand,Day after New Year's Day,Day after New Year's Day,,NZ,1971-01-02T00:00:00.0000000
+Scotland,New Year Holiday,New Year Holiday,,,1971-01-02T00:00:00.0000000
+United Kingdom,New Year Holiday [Scotland],New Year Holiday,True,GB,1971-01-02T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-01-03T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-01-03T00:00:00.0000000
+New Zealand,Day after New Year's Day (Observed),Day after New Year's Day,,NZ,1971-01-04T00:00:00.0000000
+Scotland,New Year Holiday (Observed),New Year Holiday,,,1971-01-04T00:00:00.0000000
+United Kingdom,New Year Holiday [Scotland] (Observed),New Year Holiday,True,GB,1971-01-04T00:00:00.0000000
+Austria,Heilige Drei KÃ¶nige,Heilige Drei KÃ¶nige,,AT,1971-01-06T00:00:00.0000000
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1971-01-06T00:00:00.0000000
+Finland,Loppiainen,Loppiainen,,FI,1971-01-06T00:00:00.0000000
+Italy,Epifania del Signore,Epifania del Signore,,IT,1971-01-06T00:00:00.0000000
+Spain,EpifanÃ­a del SeÃ±or,EpifanÃ­a del SeÃ±or,,ES,1971-01-06T00:00:00.0000000
+Sweden,Trettondedag jul,Trettondedag jul,,SE,1971-01-06T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-01-10T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-01-10T00:00:00.0000000
+Colombia,DÃ­a de los Reyes Magos [Epiphany](Observed),DÃ­a de los Reyes Magos [Epiphany],,CO,1971-01-11T00:00:00.0000000
+India,Makar Sankranti / Pongal,Makar Sankranti / Pongal,False,IN,1971-01-14T00:00:00.0000000
+Japan,æˆäººã®æ—¥,æˆäººã®æ—¥,,JP,1971-01-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-01-17T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-01-17T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-01-24T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-01-24T00:00:00.0000000
+Australia,Australia Day,Australia Day,,AU,1971-01-26T00:00:00.0000000
+India,Republic Day,Republic Day,True,IN,1971-01-26T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-01-31T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-01-31T00:00:00.0000000
+Mexico,DÃ­a de la ConstituciÃ³n [Constitution Day],DÃ­a de la ConstituciÃ³n [Constitution Day],,MX,1971-02-05T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-02-07T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-02-07T00:00:00.0000000
+Japan,å»ºå›½è¨˜å¿µã®æ—¥,å»ºå›½è¨˜å¿µã®æ—¥,,JP,1971-02-11T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-02-14T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-02-14T00:00:00.0000000
+United States,Washington's Birthday,Washington's Birthday,True,US,1971-02-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-02-21T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-02-21T00:00:00.0000000
+Argentina,DÃ­a de Carnaval [Carnival's Day],DÃ­a de Carnaval [Carnival's Day],,AR,1971-02-22T00:00:00.0000000
+Argentina,DÃ­a de Carnaval [Carnival's Day],DÃ­a de Carnaval [Carnival's Day],,AR,1971-02-23T00:00:00.0000000
+Brazil,Carnaval,Carnaval,,BR,1971-02-23T00:00:00.0000000
+Brazil,Quarta-feira de cinzas (InÃ­cio da Quaresma),Quarta-feira de cinzas (InÃ­cio da Quaresma),,BR,1971-02-24T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-02-28T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-02-28T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-03-07T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-03-07T00:00:00.0000000
+Ukraine,ÐœÑ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¸Ð¹ Ð¶Ñ–Ð½Ð¾Ñ‡Ð¸Ð¹ Ð´ÐµÐ½ÑŒ,ÐœÑ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¸Ð¹ Ð¶Ñ–Ð½Ð¾Ñ‡Ð¸Ð¹ Ð´ÐµÐ½ÑŒ,,UA,1971-03-08T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-03-14T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-03-14T00:00:00.0000000
+Ireland,St. Patrick's Day,St. Patrick's Day,,IE,1971-03-17T00:00:00.0000000
+Northern Ireland,St. Patrick's Day,St. Patrick's Day,,,1971-03-17T00:00:00.0000000
+United Kingdom,St. Patrick's Day [Northern Ireland],St. Patrick's Day,False,GB,1971-03-17T00:00:00.0000000
+Hungary,A TanÃ¡cskÃ¶ztÃ¡rsasÃ¡g kikiÃ¡ltÃ¡sÃ¡nak Ã¼nnepe,A TanÃ¡cskÃ¶ztÃ¡rsasÃ¡g kikiÃ¡ltÃ¡sÃ¡nak Ã¼nnepe,,HU,1971-03-21T00:00:00.0000000
+Japan,æ˜¥åˆ†ã®æ—¥,æ˜¥åˆ†ã®æ—¥,,JP,1971-03-21T00:00:00.0000000
+Mexico,Natalicio de Benito JuÃ¡rez [Benito JuÃ¡rez's birthday],Natalicio de Benito JuÃ¡rez [Benito JuÃ¡rez's birthday],,MX,1971-03-21T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-03-21T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-03-21T00:00:00.0000000
+Colombia,DÃ­a de San JosÃ© [Saint Joseph's Day](Observed),DÃ­a de San JosÃ© [Saint Joseph's Day],,CO,1971-03-22T00:00:00.0000000
+Argentina,DÃ­a Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],DÃ­a Nacional de la Memoria por la Verdad y la Justicia [Memory's National Day for the Truth and Justice],,AR,1971-03-24T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-03-28T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-03-28T00:00:00.0000000
+Argentina,DÃ­a del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],DÃ­a del Veterano y de los Caidos en la Guerra de Malvinas [Veterans Day and the Fallen in the Malvinas War],,AR,1971-04-02T00:00:00.0000000
+Denmark,PalmesÃ¸ndag,PalmesÃ¸ndag,,DK,1971-04-04T00:00:00.0000000
+Hungary,A felszabadulÃ¡s Ã¼nnepe,A felszabadulÃ¡s Ã¼nnepe,,HU,1971-04-04T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-04-04T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-04-04T00:00:00.0000000
+South Africa,Van Riebeeck's Day,Van Riebeeck's Day,,ZA,1971-04-06T00:00:00.0000000
+Argentina,Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],Semana Santa (Jueves Santo)  [Holy day (Holy Thursday)],,AR,1971-04-08T00:00:00.0000000
+Colombia,Jueves Santo [Maundy Thursday],Jueves Santo [Maundy Thursday],,CO,1971-04-08T00:00:00.0000000
+Denmark,SkÃ¦rtorsdag,SkÃ¦rtorsdag,,DK,1971-04-08T00:00:00.0000000
+Norway,SkjÃ¦rtorsdag,SkjÃ¦rtorsdag,,NO,1971-04-08T00:00:00.0000000
+Argentina,Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],Semana Santa (Viernes Santo)  [Holy day (Holy Friday)],,AR,1971-04-09T00:00:00.0000000
+Australia,Good Friday,Good Friday,,AU,1971-04-09T00:00:00.0000000
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1971-04-09T00:00:00.0000000
+Canada,Good Friday,Good Friday,,CA,1971-04-09T00:00:00.0000000
+Colombia,Viernes Santo [Good Friday],Viernes Santo [Good Friday],,CO,1971-04-09T00:00:00.0000000
+Denmark,Langfredag,Langfredag,,DK,1971-04-09T00:00:00.0000000
+England,Good Friday,Good Friday,,,1971-04-09T00:00:00.0000000
+Finland,PitkÃ¤perjantai,PitkÃ¤perjantai,,FI,1971-04-09T00:00:00.0000000
+Isle of Man,Good Friday,Good Friday,,IM,1971-04-09T00:00:00.0000000
+Netherlands,Goede Vrijdag,Goede Vrijdag,,NL,1971-04-09T00:00:00.0000000
+New Zealand,Good Friday,Good Friday,,NZ,1971-04-09T00:00:00.0000000
+Northern Ireland,Good Friday,Good Friday,,,1971-04-09T00:00:00.0000000
+Norway,Langfredag,Langfredag,,NO,1971-04-09T00:00:00.0000000
+Portugal,Sexta-feira Santa,Sexta-feira Santa,,PT,1971-04-09T00:00:00.0000000
+Scotland,Good Friday,Good Friday,,,1971-04-09T00:00:00.0000000
+South Africa,Good Friday,Good Friday,,ZA,1971-04-09T00:00:00.0000000
+Sweden,LÃ¥ngfredagen,LÃ¥ngfredagen,,SE,1971-04-09T00:00:00.0000000
+Switzerland,Karfreitag,Karfreitag,,CH,1971-04-09T00:00:00.0000000
+United Kingdom,Good Friday,Good Friday,True,GB,1971-04-09T00:00:00.0000000
+Wales,Good Friday,Good Friday,,,1971-04-09T00:00:00.0000000
+Argentina,DÃ­a de Pascuas [Easter Day],DÃ­a de Pascuas [Easter Day],,AR,1971-04-11T00:00:00.0000000
+Belgium,Pasen,Pasen,,BE,1971-04-11T00:00:00.0000000
+Brazil,PÃ¡scoa,PÃ¡scoa,,BR,1971-04-11T00:00:00.0000000
+Croatia,Uskrs,Uskrs,,HR,1971-04-11T00:00:00.0000000
+Denmark,PÃ¥skedag,PÃ¥skedag,,DK,1971-04-11T00:00:00.0000000
+Finland,PÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,PÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,,FI,1971-04-11T00:00:00.0000000
+Hungary,HÃºsvÃ©t,HÃºsvÃ©t,,HU,1971-04-11T00:00:00.0000000
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,,IT,1971-04-11T00:00:00.0000000
+Netherlands,Eerste paasdag,Eerste paasdag,,NL,1971-04-11T00:00:00.0000000
+Norway,"FÃ¸rste pÃ¥skedag, SÃ¸ndag","FÃ¸rste pÃ¥skedag, SÃ¸ndag",,NO,1971-04-11T00:00:00.0000000
+Poland,Niedziela Wielkanocna,Niedziela Wielkanocna,,PL,1971-04-11T00:00:00.0000000
+Portugal,PÃ¡scoa,PÃ¡scoa,,PT,1971-04-11T00:00:00.0000000
+Sweden,"PÃ¥skdagen, SÃ¶ndag","PÃ¥skdagen, SÃ¶ndag",,SE,1971-04-11T00:00:00.0000000
+Switzerland,Ostern,Ostern,,CH,1971-04-11T00:00:00.0000000
+Australia,Easter Monday,Easter Monday,,AU,1971-04-12T00:00:00.0000000
+Austria,Ostermontag,Ostermontag,,AT,1971-04-12T00:00:00.0000000
+Belgium,Paasmaandag,Paasmaandag,,BE,1971-04-12T00:00:00.0000000
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1971-04-12T00:00:00.0000000
+Czech,VelikonoÄnÃ­ pondÄ›lÃ­,VelikonoÄnÃ­ pondÄ›lÃ­,,CZ,1971-04-12T00:00:00.0000000
+Denmark,Anden pÃ¥skedag,Anden pÃ¥skedag,,DK,1971-04-12T00:00:00.0000000
+England,Easter Monday,Easter Monday,,,1971-04-12T00:00:00.0000000
+Finland,2. pÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,2. pÃ¤Ã¤siÃ¤ispÃ¤ivÃ¤,,FI,1971-04-12T00:00:00.0000000
+France,Lundi de PÃ¢ques,Lundi de PÃ¢ques,,FR,1971-04-12T00:00:00.0000000
+Hungary,HÃºsvÃ©t HÃ©tfÅ‘,HÃºsvÃ©t HÃ©tfÅ‘,,HU,1971-04-12T00:00:00.0000000
+Ireland,Easter Monday,Easter Monday,,IE,1971-04-12T00:00:00.0000000
+Isle of Man,Easter Monday,Easter Monday,,IM,1971-04-12T00:00:00.0000000
+Italy,LunedÃ¬ dell'Angelo,LunedÃ¬ dell'Angelo,,IT,1971-04-12T00:00:00.0000000
+Netherlands,Tweede paasdag,Tweede paasdag,,NL,1971-04-12T00:00:00.0000000
+New Zealand,Easter Monday,Easter Monday,,NZ,1971-04-12T00:00:00.0000000
+Northern Ireland,Easter Monday,Easter Monday,,,1971-04-12T00:00:00.0000000
+Norway,Andre pÃ¥skedag,Andre pÃ¥skedag,,NO,1971-04-12T00:00:00.0000000
+Poland,PoniedziaÅ‚ek Wielkanocny,PoniedziaÅ‚ek Wielkanocny,,PL,1971-04-12T00:00:00.0000000
+South Africa,Easter Monday,Easter Monday,,ZA,1971-04-12T00:00:00.0000000
+Sweden,Annandag pÃ¥sk,Annandag pÃ¥sk,,SE,1971-04-12T00:00:00.0000000
+Switzerland,Ostermontag,Ostermontag,,CH,1971-04-12T00:00:00.0000000
+United Kingdom,"Easter Monday [England, Wales, Northern Ireland]",Easter Monday,True,GB,1971-04-12T00:00:00.0000000
+Wales,Easter Monday,Easter Monday,,,1971-04-12T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-04-18T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-04-18T00:00:00.0000000
+Brazil,Tiradentes,Tiradentes,,BR,1971-04-21T00:00:00.0000000
+Australia,Anzac Day,Anzac Day,,AU,1971-04-25T00:00:00.0000000
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1971-04-25T00:00:00.0000000
+New Zealand,Anzac Day,Anzac Day,,NZ,1971-04-25T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-04-25T00:00:00.0000000
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1971-04-25T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-04-25T00:00:00.0000000
+Japan,å¤©çš‡èª•ç”Ÿæ—¥,å¤©çš‡èª•ç”Ÿæ—¥,,JP,1971-04-29T00:00:00.0000000
+Mexico,Natalicio de Benito JuÃ¡rez [Benito JuÃ¡rez's birthday] (Observed),Natalicio de Benito JuÃ¡rez [Benito JuÃ¡rez's birthday],,MX,1971-04-30T00:00:00.0000000
+Netherlands,Koninginnedag,Koninginnedag,,NL,1971-04-30T00:00:00.0000000
+Argentina,DÃ­a del Trabajo [Labour Day],DÃ­a del Trabajo [Labour Day],,AR,1971-05-01T00:00:00.0000000
+Austria,Staatsfeiertag,Staatsfeiertag,,AT,1971-05-01T00:00:00.0000000
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1971-05-01T00:00:00.0000000
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1971-05-01T00:00:00.0000000
+Colombia,DÃ­a del Trabajo [Labour Day],DÃ­a del Trabajo [Labour Day],,CO,1971-05-01T00:00:00.0000000
+Croatia,MeÄ‘unarodni praznik rada,MeÄ‘unarodni praznik rada,,HR,1971-05-01T00:00:00.0000000
+Czech,SvÃ¡tek prÃ¡ce,SvÃ¡tek prÃ¡ce,,CZ,1971-05-01T00:00:00.0000000
+Finland,Vappu,Vappu,,FI,1971-05-01T00:00:00.0000000
+France,FÃªte du Travail,FÃªte du Travail,,FR,1971-05-01T00:00:00.0000000
+Hungary,A Munka Ã¼nnepe,A Munka Ã¼nnepe,,HU,1971-05-01T00:00:00.0000000
+India,Labour Day,Labour Day,False,IN,1971-05-01T00:00:00.0000000
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,,IT,1971-05-01T00:00:00.0000000
+Mexico,DÃ­a del Trabajo [Labour Day],DÃ­a del Trabajo [Labour Day],,MX,1971-05-01T00:00:00.0000000
+Norway,Arbeidernes dag,Arbeidernes dag,,NO,1971-05-01T00:00:00.0000000
+Poland,ÅšwiÄ™to PaÅ„stwowe,ÅšwiÄ™to PaÅ„stwowe,,PL,1971-05-01T00:00:00.0000000
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1971-05-01T00:00:00.0000000
+Spain,DÃ­a del Trabajador,DÃ­a del Trabajador,,ES,1971-05-01T00:00:00.0000000
+Sweden,FÃ¶rsta maj,FÃ¶rsta maj,,SE,1971-05-01T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,,UA,1971-05-01T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-05-02T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-05-02T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,Ð”ÐµÐ½ÑŒ Ð¼Ñ–Ð¶Ð½Ð°Ñ€Ð¾Ð´Ð½Ð¾Ñ— ÑÐ¾Ð»Ñ–Ð´Ð°Ñ€Ð½Ð¾ÑÑ‚Ñ– Ñ‚Ñ€ÑƒÐ´ÑÑ‰Ð¸Ñ…,,UA,1971-05-02T00:00:00.0000000
+Japan,æ†²æ³•è¨˜å¿µæ—¥,æ†²æ³•è¨˜å¿µæ—¥,,JP,1971-05-03T00:00:00.0000000
+Poland,ÅšwiÄ™to Narodowe Trzeciego Maja,ÅšwiÄ™to Narodowe Trzeciego Maja,,PL,1971-05-03T00:00:00.0000000
+Japan,ã“ã©ã‚‚ã®æ—¥,ã“ã©ã‚‚ã®æ—¥,,JP,1971-05-05T00:00:00.0000000
+Denmark,Store bededag,Store bededag,,DK,1971-05-07T00:00:00.0000000
+Czech,Den vÃ­tÄ›zstvÃ­ nad hitlerovskÃ½m faÅ¡ismem,Den vÃ­tÄ›zstvÃ­ nad hitlerovskÃ½m faÅ¡ismem,,CZ,1971-05-09T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-05-09T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-05-09T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ Ð¿ÐµÑ€ÐµÐ¼Ð¾Ð³Ð¸,Ð”ÐµÐ½ÑŒ Ð¿ÐµÑ€ÐµÐ¼Ð¾Ð³Ð¸,,UA,1971-05-09T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-05-16T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-05-16T00:00:00.0000000
+Norway,Grunnlovsdag,Grunnlovsdag,,NO,1971-05-17T00:00:00.0000000
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1971-05-20T00:00:00.0000000
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1971-05-20T00:00:00.0000000
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1971-05-20T00:00:00.0000000
+Finland,Helatorstai,Helatorstai,,FI,1971-05-20T00:00:00.0000000
+France,Ascension,Ascension,,FR,1971-05-20T00:00:00.0000000
+Netherlands,Hemelvaart,Hemelvaart,,NL,1971-05-20T00:00:00.0000000
+Norway,Kristi himmelfartsdag,Kristi himmelfartsdag,,NO,1971-05-20T00:00:00.0000000
+Sweden,Kristi himmelsfÃ¤rdsdag,Kristi himmelsfÃ¤rdsdag,,SE,1971-05-20T00:00:00.0000000
+Switzerland,Auffahrt,Auffahrt,,CH,1971-05-20T00:00:00.0000000
+South Africa,Ascension Day,Ascension Day,,ZA,1971-05-21T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-05-23T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-05-23T00:00:00.0000000
+Canada,Victoria Day,Victoria Day,,CA,1971-05-24T00:00:00.0000000
+Colombia,AscensiÃ³n del seÃ±or [Ascension of Jesus](Observed),AscensiÃ³n del seÃ±or [Ascension of Jesus],,CO,1971-05-24T00:00:00.0000000
+Argentina,DÃ­a de la Revolucion de Mayo [May Revolution Day],DÃ­a de la Revolucion de Mayo [May Revolution Day],,AR,1971-05-25T00:00:00.0000000
+Belgium,Pinksteren,Pinksteren,,BE,1971-05-30T00:00:00.0000000
+Denmark,Pinsedag,Pinsedag,,DK,1971-05-30T00:00:00.0000000
+Finland,HelluntaipÃ¤ivÃ¤,HelluntaipÃ¤ivÃ¤,,FI,1971-05-30T00:00:00.0000000
+Hungary,PÃ¼nkÃ¶sd,PÃ¼nkÃ¶sd,,HU,1971-05-30T00:00:00.0000000
+Netherlands,Eerste Pinksterdag,Eerste Pinksterdag,,NL,1971-05-30T00:00:00.0000000
+Norway,"FÃ¸rste pinsedag, SÃ¸ndag","FÃ¸rste pinsedag, SÃ¸ndag",,NO,1971-05-30T00:00:00.0000000
+Poland,Zielone ÅšwiÄ…tki,Zielone ÅšwiÄ…tki,,PL,1971-05-30T00:00:00.0000000
+Sweden,"Pingstdagen, SÃ¶ndag","Pingstdagen, SÃ¶ndag",,SE,1971-05-30T00:00:00.0000000
+Switzerland,Pfingsten,Pfingsten,,CH,1971-05-30T00:00:00.0000000
+Austria,Pfingstmontag,Pfingstmontag,,AT,1971-05-31T00:00:00.0000000
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1971-05-31T00:00:00.0000000
+Denmark,Anden pinsedag,Anden pinsedag,,DK,1971-05-31T00:00:00.0000000
+England,Spring Bank Holiday,Spring Bank Holiday,,,1971-05-31T00:00:00.0000000
+France,Lundi de PentecÃ´te,Lundi de PentecÃ´te,,FR,1971-05-31T00:00:00.0000000
+Isle of Man,Spring Bank Holiday,Spring Bank Holiday,,IM,1971-05-31T00:00:00.0000000
+Netherlands,Tweede Pinksterdag,Tweede Pinksterdag,,NL,1971-05-31T00:00:00.0000000
+Northern Ireland,Spring Bank Holiday,Spring Bank Holiday,,,1971-05-31T00:00:00.0000000
+Norway,Andre pinsedag,Andre pinsedag,,NO,1971-05-31T00:00:00.0000000
+Scotland,Spring Bank Holiday,Spring Bank Holiday,,,1971-05-31T00:00:00.0000000
+South Africa,Republic Day,Republic Day,,ZA,1971-05-31T00:00:00.0000000
+Sweden,Annandag pingst,Annandag pingst,,SE,1971-05-31T00:00:00.0000000
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1971-05-31T00:00:00.0000000
+United Kingdom,Spring Bank Holiday,Spring Bank Holiday,True,GB,1971-05-31T00:00:00.0000000
+United States,Memorial Day,Memorial Day,True,US,1971-05-31T00:00:00.0000000
+Wales,Spring Bank Holiday,Spring Bank Holiday,,,1971-05-31T00:00:00.0000000
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1971-06-02T00:00:00.0000000
+Isle of Man,TT Bank Holiday,TT Bank Holiday,,IM,1971-06-04T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-06-06T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-06-06T00:00:00.0000000
+Ireland,June Bank Holiday,June Bank Holiday,,IE,1971-06-07T00:00:00.0000000
+New Zealand,Queen's Birthday,Queen's Birthday,,NZ,1971-06-07T00:00:00.0000000
+Austria,Fronleichnam,Fronleichnam,,AT,1971-06-10T00:00:00.0000000
+Brazil,Corpus Christi,Corpus Christi,,BR,1971-06-10T00:00:00.0000000
+Croatia,Tijelovo,Tijelovo,,HR,1971-06-10T00:00:00.0000000
+Poland,DzieÅ„ BoÅ¼ego CiaÅ‚a,DzieÅ„ BoÅ¼ego CiaÅ‚a,,PL,1971-06-10T00:00:00.0000000
+Portugal,"Dia de Portugal, Corpo de Deus","Dia de Portugal, Corpo de Deus",,PT,1971-06-10T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-06-13T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-06-13T00:00:00.0000000
+Colombia,Corpus Christi [Corpus Christi](Observed),Corpus Christi [Corpus Christi],,CO,1971-06-14T00:00:00.0000000
+Argentina,DÃ­a Pase a la Inmortalidad del General MartÃ­n Miguel de GÃ¼emes [Day Pass to the Immortality of General MartÃ­n Miguel de GÃ¼emes],DÃ­a Pase a la Inmortalidad del General MartÃ­n Miguel de GÃ¼emes [Day Pass to the Immortality of General MartÃ­n Miguel de GÃ¼emes],,AR,1971-06-17T00:00:00.0000000
+Argentina,DÃ­a Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],DÃ­a Pase a la Inmortalidad del General D. Manuel Belgrano [Day Pass to the Immortality of General D. Manuel Belgrano],,AR,1971-06-20T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-06-20T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-06-20T00:00:00.0000000
+Colombia,Sagrado CorazÃ³n [Sacred Heart](Observed),Sagrado CorazÃ³n [Sacred Heart],,CO,1971-06-21T00:00:00.0000000
+Croatia,Dan antifaÅ¡istiÄke borbe,Dan antifaÅ¡istiÄke borbe,,HR,1971-06-22T00:00:00.0000000
+Croatia,Dan drÅ¾avnosti,Dan drÅ¾avnosti,,HR,1971-06-25T00:00:00.0000000
+Finland,Juhannusaatto,Juhannusaatto,,FI,1971-06-25T00:00:00.0000000
+Sweden,Midsommarafton,Midsommarafton,,SE,1971-06-25T00:00:00.0000000
+Finland,JuhannuspÃ¤ivÃ¤,JuhannuspÃ¤ivÃ¤,,FI,1971-06-26T00:00:00.0000000
+Sweden,Midsommardagen,Midsommardagen,,SE,1971-06-26T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-06-27T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-06-27T00:00:00.0000000
+Canada,Dominion Day,Dominion Day,,CA,1971-07-01T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-07-04T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-07-04T00:00:00.0000000
+United States,Independence Day,Independence Day,True,US,1971-07-04T00:00:00.0000000
+Colombia,San Pedro y San Pablo [Saint Peter and Saint Paul](Observed),San Pedro y San Pablo [Saint Peter and Saint Paul],,CO,1971-07-05T00:00:00.0000000
+Czech,Den slovanskÃ½ch vÄ›rozvÄ›stÅ¯ Cyrila a MetodÄ›je,Den slovanskÃ½ch vÄ›rozvÄ›stÅ¯ Cyrila a MetodÄ›je,,CZ,1971-07-05T00:00:00.0000000
+Isle of Man,Tynwald Day,Tynwald Day,,IM,1971-07-05T00:00:00.0000000
+United States,Independence Day (Observed),Independence Day,True,US,1971-07-05T00:00:00.0000000
+Czech,Den upÃ¡lenÃ­ mistra Jana Husa,Den upÃ¡lenÃ­ mistra Jana Husa,,CZ,1971-07-06T00:00:00.0000000
+Argentina,DÃ­a de la Independencia [Independence Day],DÃ­a de la Independencia [Independence Day],,AR,1971-07-09T00:00:00.0000000
+South Africa,Family Day,Family Day,,ZA,1971-07-10T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-07-11T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-07-11T00:00:00.0000000
+Northern Ireland,Battle of the Boyne,Battle of the Boyne,,,1971-07-12T00:00:00.0000000
+United Kingdom,Battle of the Boyne [Northern Ireland],Battle of the Boyne,False,GB,1971-07-12T00:00:00.0000000
+France,FÃªte nationale,FÃªte nationale,,FR,1971-07-14T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-07-18T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-07-18T00:00:00.0000000
+Colombia,DÃ­a de la Independencia [Independence Day],DÃ­a de la Independencia [Independence Day],,CO,1971-07-20T00:00:00.0000000
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1971-07-21T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-07-25T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-07-25T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-08-01T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-08-01T00:00:00.0000000
+Switzerland,Nationalfeiertag,Nationalfeiertag,,CH,1971-08-01T00:00:00.0000000
+Canada,Civic Holiday,Civic Holiday,,CA,1971-08-02T00:00:00.0000000
+Ireland,Summer Bank Holiday,Summer Bank Holiday,,IE,1971-08-02T00:00:00.0000000
+Scotland,Summer Bank Holiday,Summer Bank Holiday,,,1971-08-02T00:00:00.0000000
+United Kingdom,Summer Bank Holiday [Scotland],Summer Bank Holiday,False,GB,1971-08-02T00:00:00.0000000
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,,HR,1971-08-05T00:00:00.0000000
+Colombia,Batalla de BoyacÃ¡ [Battle of BoyacÃ¡],Batalla de BoyacÃ¡ [Battle of BoyacÃ¡],,CO,1971-08-07T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-08-08T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-08-08T00:00:00.0000000
+Austria,MariÃ¤ Himmelfahrt,MariÃ¤ Himmelfahrt,,AT,1971-08-15T00:00:00.0000000
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1971-08-15T00:00:00.0000000
+Croatia,Velika Gospa,Velika Gospa,,HR,1971-08-15T00:00:00.0000000
+France,Assomption,Assomption,,FR,1971-08-15T00:00:00.0000000
+India,Independence Day,Independence Day,True,IN,1971-08-15T00:00:00.0000000
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1971-08-15T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-08-15T00:00:00.0000000
+Poland,WniebowziÄ™cie NajÅ›wiÄ™tszej Marii Panny,WniebowziÄ™cie NajÅ›wiÄ™tszej Marii Panny,,PL,1971-08-15T00:00:00.0000000
+Portugal,AssunÃ§Ã£o de Nossa Senhora,AssunÃ§Ã£o de Nossa Senhora,,PT,1971-08-15T00:00:00.0000000
+Spain,AsunciÃ³n de la Virgen,AsunciÃ³n de la Virgen,,ES,1971-08-15T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-08-15T00:00:00.0000000
+Colombia,La AsunciÃ³n [Assumption of Mary](Observed),La AsunciÃ³n [Assumption of Mary],,CO,1971-08-16T00:00:00.0000000
+Argentina,DÃ­a Pase a la Inmortalidad del General D. JosÃ© de San Martin [Day Pass to the Immortality of General D. JosÃ© de San Martin],DÃ­a Pase a la Inmortalidad del General D. JosÃ© de San Martin [Day Pass to the Immortality of General D. JosÃ© de San Martin],,AR,1971-08-17T00:00:00.0000000
+Hungary,A kenyÃ©r Ã¼nnepe,A kenyÃ©r Ã¼nnepe,,HU,1971-08-20T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-08-22T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-08-22T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-08-29T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-08-29T00:00:00.0000000
+England,Late Summer Bank Holiday,Late Summer Bank Holiday,,,1971-08-30T00:00:00.0000000
+Isle of Man,Late Summer Bank Holiday,Late Summer Bank Holiday,,IM,1971-08-30T00:00:00.0000000
+Northern Ireland,Late Summer Bank Holiday,Late Summer Bank Holiday,,,1971-08-30T00:00:00.0000000
+United Kingdom,"Late Summer Bank Holiday [England, Wales, Northern Ireland]",Late Summer Bank Holiday,True,GB,1971-08-30T00:00:00.0000000
+Wales,Late Summer Bank Holiday,Late Summer Bank Holiday,,,1971-08-30T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-09-05T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-09-05T00:00:00.0000000
+Canada,Labour Day,Labour Day,,CA,1971-09-06T00:00:00.0000000
+South Africa,Settlers' Day,Settlers' Day,,ZA,1971-09-06T00:00:00.0000000
+United States,Labor Day,Labor Day,True,US,1971-09-06T00:00:00.0000000
+Brazil,IndependÃªncia do Brasil,IndependÃªncia do Brasil,,BR,1971-09-07T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-09-12T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-09-12T00:00:00.0000000
+Japan,æ•¬è€ã®æ—¥,æ•¬è€ã®æ—¥,,JP,1971-09-15T00:00:00.0000000
+Mexico,DÃ­a de la Independencia [Independence Day],DÃ­a de la Independencia [Independence Day],,MX,1971-09-16T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-09-19T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-09-19T00:00:00.0000000
+Japan,ç§‹åˆ†ã®æ—¥,ç§‹åˆ†ã®æ—¥,,JP,1971-09-24T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-09-26T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-09-26T00:00:00.0000000
+India,Gandhi Jayanti,Gandhi Jayanti,True,IN,1971-10-02T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-10-03T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-10-03T00:00:00.0000000
+Portugal,ImplantaÃ§Ã£o da RepÃºblica,ImplantaÃ§Ã£o da RepÃºblica,,PT,1971-10-05T00:00:00.0000000
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1971-10-08T00:00:00.0000000
+Japan,ä½“è‚²ã®æ—¥,ä½“è‚²ã®æ—¥,,JP,1971-10-10T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-10-10T00:00:00.0000000
+South Africa,Kruger Day,Kruger Day,,ZA,1971-10-10T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-10-10T00:00:00.0000000
+Canada,Thanksgiving,Thanksgiving,,CA,1971-10-11T00:00:00.0000000
+United States,Columbus Day,Columbus Day,False,US,1971-10-11T00:00:00.0000000
+Argentina,DÃ­a de la Raza [Columbus day],DÃ­a de la Raza [Columbus day],,AR,1971-10-12T00:00:00.0000000
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1971-10-12T00:00:00.0000000
+Spain,DÃ­a de la Hispanidad,DÃ­a de la Hispanidad,,ES,1971-10-12T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-10-17T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-10-17T00:00:00.0000000
+Colombia,Descubrimiento de AmÃ©rica [Discovery of America](Observed),Descubrimiento de AmÃ©rica [Discovery of America],,CO,1971-10-18T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-10-24T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-10-24T00:00:00.0000000
+Ireland,October Bank Holiday,October Bank Holiday,,IE,1971-10-25T00:00:00.0000000
+New Zealand,Labour Day,Labour Day,,NZ,1971-10-25T00:00:00.0000000
+United States,Veterans Day,Veterans Day,False,US,1971-10-25T00:00:00.0000000
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1971-10-26T00:00:00.0000000
+Czech,Den vzniku samostatnÃ©ho ÄeskoslovenskÃ©ho stÃ¡tu,Den vzniku samostatnÃ©ho ÄeskoslovenskÃ©ho stÃ¡tu,,CZ,1971-10-28T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-10-31T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-10-31T00:00:00.0000000
+Austria,Allerheiligen,Allerheiligen,,AT,1971-11-01T00:00:00.0000000
+Belgium,Allerheiligen,Allerheiligen,,BE,1971-11-01T00:00:00.0000000
+Colombia,Dia de Todos los Santos [All Saint's Day],Dia de Todos los Santos [All Saint's Day],,CO,1971-11-01T00:00:00.0000000
+Croatia,Svi sveti,Svi sveti,,HR,1971-11-01T00:00:00.0000000
+France,Toussaint,Toussaint,,FR,1971-11-01T00:00:00.0000000
+Italy,Tutti i Santi,Tutti i Santi,,IT,1971-11-01T00:00:00.0000000
+Poland,UroczystoÅ›Ä‡ Wszystkich Å›wiÄ™tych,UroczystoÅ›Ä‡ Wszystkich Å›wiÄ™tych,,PL,1971-11-01T00:00:00.0000000
+Portugal,Dia de Todos os Santos,Dia de Todos os Santos,,PT,1971-11-01T00:00:00.0000000
+Spain,Todos los Santos,Todos los Santos,,ES,1971-11-01T00:00:00.0000000
+Brazil,Finados,Finados,,BR,1971-11-02T00:00:00.0000000
+Japan,æ–‡åŒ–ã®æ—¥,æ–‡åŒ–ã®æ—¥,,JP,1971-11-03T00:00:00.0000000
+Finland,PyhÃ¤inpÃ¤ivÃ¤,PyhÃ¤inpÃ¤ivÃ¤,,FI,1971-11-06T00:00:00.0000000
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1971-11-06T00:00:00.0000000
+Hungary,A nagy oktÃ³beri szocialista forradalom Ã¼nnepe,A nagy oktÃ³beri szocialista forradalom Ã¼nnepe,,HU,1971-11-07T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-11-07T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-11-07T00:00:00.0000000
+Ukraine,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,,UA,1971-11-07T00:00:00.0000000
+Ukraine,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,Ð Ñ–Ñ‡Ð½Ð¸Ñ†Ñ Ð’ÐµÐ»Ð¸ÐºÐ¾Ñ— Ð–Ð¾Ð²Ñ‚Ð½ÐµÐ²Ð¾Ñ— ÑÐ¾Ñ†Ñ–Ð°Ð»Ñ–ÑÑ‚Ð¸Ñ‡Ð½Ð¾Ñ— Ñ€ÐµÐ²Ð¾Ð»ÑŽÑ†Ñ–Ñ—,,UA,1971-11-08T00:00:00.0000000
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1971-11-11T00:00:00.0000000
+France,Armistice 1918,Armistice 1918,,FR,1971-11-11T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-11-14T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-11-14T00:00:00.0000000
+Brazil,ProclamaÃ§Ã£o da RepÃºblica,ProclamaÃ§Ã£o da RepÃºblica,,BR,1971-11-15T00:00:00.0000000
+Colombia,Independencia de Cartagena [Independence of Cartagena](Observed),Independencia de Cartagena [Independence of Cartagena],,CO,1971-11-15T00:00:00.0000000
+Mexico,DÃ­a de la RevoluciÃ³n [Revolution Day],DÃ­a de la RevoluciÃ³n [Revolution Day],,MX,1971-11-20T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-11-21T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-11-21T00:00:00.0000000
+Japan,å‹¤åŠ´æ„Ÿè¬ã®æ—¥,å‹¤åŠ´æ„Ÿè¬ã®æ—¥,,JP,1971-11-23T00:00:00.0000000
+United States,Thanksgiving,Thanksgiving,True,US,1971-11-25T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-11-28T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-11-28T00:00:00.0000000
+Scotland,St. Andrew's Day,St. Andrew's Day,,,1971-11-30T00:00:00.0000000
+United Kingdom,St. Andrew's Day [Scotland],St. Andrew's Day,False,GB,1971-11-30T00:00:00.0000000
+Portugal,RestauraÃ§Ã£o da IndependÃªncia,RestauraÃ§Ã£o da IndependÃªncia,,PT,1971-12-01T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-12-05T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-12-05T00:00:00.0000000
+Ukraine,Ð”ÐµÐ½ÑŒ ÐšÐ¾Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ†Ñ–Ñ— Ð¡Ð Ð¡Ð ,Ð”ÐµÐ½ÑŒ ÐšÐ¾Ð½ÑÑ‚Ð¸Ñ‚ÑƒÑ†Ñ–Ñ— Ð¡Ð Ð¡Ð ,,UA,1971-12-05T00:00:00.0000000
+Finland,ItsenÃ¤isyyspÃ¤ivÃ¤,ItsenÃ¤isyyspÃ¤ivÃ¤,,FI,1971-12-06T00:00:00.0000000
+Spain,DÃ­a de la constituciÃ³n EspaÃ±ola,DÃ­a de la constituciÃ³n EspaÃ±ola,,ES,1971-12-06T00:00:00.0000000
+Argentina,La Inmaculada ConcepciÃ³n [Immaculate Conception],La Inmaculada ConcepciÃ³n [Immaculate Conception],,AR,1971-12-08T00:00:00.0000000
+Austria,MariÃ¤ EmpfÃ¤ngnis,MariÃ¤ EmpfÃ¤ngnis,,AT,1971-12-08T00:00:00.0000000
+Colombia,La Inmaculada ConcepciÃ³n [Immaculate Conception],La Inmaculada ConcepciÃ³n [Immaculate Conception],,CO,1971-12-08T00:00:00.0000000
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1971-12-08T00:00:00.0000000
+Portugal,Imaculada ConceiÃ§Ã£o,Imaculada ConceiÃ§Ã£o,,PT,1971-12-08T00:00:00.0000000
+Spain,La Inmaculada ConcepciÃ³n,La Inmaculada ConcepciÃ³n,,ES,1971-12-08T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-12-12T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-12-12T00:00:00.0000000
+South Africa,Day of the Covenant,Day of the Covenant,,ZA,1971-12-16T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1971-12-19T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1971-12-19T00:00:00.0000000
+Canada,Christmas Day (Observed),Christmas Day,,CA,1971-12-24T00:00:00.0000000
+Finland,Jouluaatto,Jouluaatto,,FI,1971-12-24T00:00:00.0000000
+Mexico,TransmisiÃ³n del Poder Ejecutivo Federal [Change of Federal Government] (Observed),TransmisiÃ³n del Poder Ejecutivo Federal [Change of Federal Government],,MX,1971-12-24T00:00:00.0000000
+Sweden,Julafton,Julafton,,SE,1971-12-24T00:00:00.0000000
+United States,Christmas Day (Observed),Christmas Day,True,US,1971-12-24T00:00:00.0000000
+Argentina,Navidad [Christmas],Navidad [Christmas],,AR,1971-12-25T00:00:00.0000000
+Australia,Christmas Day,Christmas Day,,AU,1971-12-25T00:00:00.0000000
+Austria,Christtag,Christtag,,AT,1971-12-25T00:00:00.0000000
+Belgium,Kerstmis,Kerstmis,,BE,1971-12-25T00:00:00.0000000
+Brazil,Natal,Natal,,BR,1971-12-25T00:00:00.0000000
+Canada,Christmas Day,Christmas Day,,CA,1971-12-25T00:00:00.0000000
+Colombia,Navidad [Christmas],Navidad [Christmas],,CO,1971-12-25T00:00:00.0000000
+Croatia,BoÅ¾iÄ‡,BoÅ¾iÄ‡,,HR,1971-12-25T00:00:00.0000000
+Czech,1. svÃ¡tek vÃ¡noÄnÃ­,1. svÃ¡tek vÃ¡noÄnÃ­,,CZ,1971-12-25T00:00:00.0000000
+Denmark,Juledag,Juledag,,DK,1971-12-25T00:00:00.0000000
+England,Christmas Day,Christmas Day,,,1971-12-25T00:00:00.0000000
+Finland,JoulupÃ¤ivÃ¤,JoulupÃ¤ivÃ¤,,FI,1971-12-25T00:00:00.0000000
+France,NoÃ«l,NoÃ«l,,FR,1971-12-25T00:00:00.0000000
+Hungary,KarÃ¡csony,KarÃ¡csony,,HU,1971-12-25T00:00:00.0000000
+India,Christmas,Christmas,False,IN,1971-12-25T00:00:00.0000000
+Ireland,Christmas Day,Christmas Day,,IE,1971-12-25T00:00:00.0000000
+Isle of Man,Christmas Day,Christmas Day,,IM,1971-12-25T00:00:00.0000000
+Italy,Natale,Natale,,IT,1971-12-25T00:00:00.0000000
+Mexico,Navidad [Christmas],Navidad [Christmas],,MX,1971-12-25T00:00:00.0000000
+Netherlands,Eerste Kerstdag,Eerste Kerstdag,,NL,1971-12-25T00:00:00.0000000
+New Zealand,Christmas Day,Christmas Day,,NZ,1971-12-25T00:00:00.0000000
+Northern Ireland,Christmas Day,Christmas Day,,,1971-12-25T00:00:00.0000000
+Norway,FÃ¸rste juledag,FÃ¸rste juledag,,NO,1971-12-25T00:00:00.0000000
+Poland,BoÅ¼e Narodzenie (pierwszy dzieÅ„),BoÅ¼e Narodzenie (pierwszy dzieÅ„),,PL,1971-12-25T00:00:00.0000000
+Portugal,Dia de Natal,Dia de Natal,,PT,1971-12-25T00:00:00.0000000
+Scotland,Christmas Day,Christmas Day,,,1971-12-25T00:00:00.0000000
+South Africa,Christmas Day,Christmas Day,,ZA,1971-12-25T00:00:00.0000000
+Spain,Navidad,Navidad,,ES,1971-12-25T00:00:00.0000000
+Sweden,Juldagen,Juldagen,,SE,1971-12-25T00:00:00.0000000
+Switzerland,Weihnachten,Weihnachten,,CH,1971-12-25T00:00:00.0000000
+United Kingdom,Christmas Day,Christmas Day,True,GB,1971-12-25T00:00:00.0000000
+United States,Christmas Day,Christmas Day,True,US,1971-12-25T00:00:00.0000000
+Wales,Christmas Day,Christmas Day,,,1971-12-25T00:00:00.0000000
+Australia,Boxing Day,Boxing Day,,AU,1971-12-26T00:00:00.0000000
+Austria,Stefanitag,Stefanitag,,AT,1971-12-26T00:00:00.0000000
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1971-12-26T00:00:00.0000000
+Czech,2. svÃ¡tek vÃ¡noÄnÃ­,2. svÃ¡tek vÃ¡noÄnÃ­,,CZ,1971-12-26T00:00:00.0000000
+Denmark,Anden juledag,Anden juledag,,DK,1971-12-26T00:00:00.0000000
+England,Boxing Day,Boxing Day,,,1971-12-26T00:00:00.0000000
+Finland,TapaninpÃ¤ivÃ¤,TapaninpÃ¤ivÃ¤,,FI,1971-12-26T00:00:00.0000000
+Hungary,KarÃ¡csony mÃ¡snapja,KarÃ¡csony mÃ¡snapja,,HU,1971-12-26T00:00:00.0000000
+Ireland,Boxing Day,Boxing Day,,IE,1971-12-26T00:00:00.0000000
+Isle of Man,Boxing Day,Boxing Day,,IM,1971-12-26T00:00:00.0000000
+Italy,Santo Stefano,Santo Stefano,,IT,1971-12-26T00:00:00.0000000
+Netherlands,Tweede Kerstdag,Tweede Kerstdag,,NL,1971-12-26T00:00:00.0000000
+New Zealand,Boxing Day,Boxing Day,,NZ,1971-12-26T00:00:00.0000000
+Northern Ireland,Boxing Day,Boxing Day,,,1971-12-26T00:00:00.0000000
+Norway,"Andre juledag, SÃ¸ndag","Andre juledag, SÃ¸ndag",,NO,1971-12-26T00:00:00.0000000
+Poland,BoÅ¼e Narodzenie (drugi dzieÅ„),BoÅ¼e Narodzenie (drugi dzieÅ„),,PL,1971-12-26T00:00:00.0000000
+Scotland,Boxing Day,Boxing Day,,,1971-12-26T00:00:00.0000000
+South Africa,Boxing Day,Boxing Day,,ZA,1971-12-26T00:00:00.0000000
+Sweden,"Annandag jul, SÃ¶ndag","Annandag jul, SÃ¶ndag",,SE,1971-12-26T00:00:00.0000000
+United Kingdom,Boxing Day,Boxing Day,True,GB,1971-12-26T00:00:00.0000000
+Wales,Boxing Day,Boxing Day,,,1971-12-26T00:00:00.0000000
+Australia,Christmas Day (Observed),Christmas Day,,AU,1971-12-27T00:00:00.0000000
+Canada,Boxing Day (Observed),Boxing Day,,CA,1971-12-27T00:00:00.0000000
+England,Christmas Day (Observed),Christmas Day,,,1971-12-27T00:00:00.0000000
+Ireland,Christmas Day (Observed),Christmas Day,,IE,1971-12-27T00:00:00.0000000
+Isle of Man,Christmas Day (Observed),Christmas Day,,IM,1971-12-27T00:00:00.0000000
+New Zealand,Christmas Day (Observed),Christmas Day,,NZ,1971-12-27T00:00:00.0000000
+Northern Ireland,Christmas Day (Observed),Christmas Day,,,1971-12-27T00:00:00.0000000
+Scotland,Christmas Day (Observed),Christmas Day,,,1971-12-27T00:00:00.0000000
+United Kingdom,Christmas Day (Observed),Christmas Day,True,GB,1971-12-27T00:00:00.0000000
+Wales,Christmas Day (Observed),Christmas Day,,,1971-12-27T00:00:00.0000000
+Australia,Boxing Day (Observed),Boxing Day,,AU,1971-12-28T00:00:00.0000000
+England,Boxing Day (Observed),Boxing Day,,,1971-12-28T00:00:00.0000000
+Ireland,Boxing Day (Observed),Boxing Day,,IE,1971-12-28T00:00:00.0000000
+Isle of Man,Boxing Day (Observed),Boxing Day,,IM,1971-12-28T00:00:00.0000000
+New Zealand,Boxing Day (Observed),Boxing Day,,NZ,1971-12-28T00:00:00.0000000
+Northern Ireland,Boxing Day (Observed),Boxing Day,,,1971-12-28T00:00:00.0000000
+Scotland,Boxing Day (Observed),Boxing Day,,,1971-12-28T00:00:00.0000000
+United Kingdom,Boxing Day (Observed),Boxing Day,True,GB,1971-12-28T00:00:00.0000000
+Wales,Boxing Day (Observed),Boxing Day,,,1971-12-28T00:00:00.0000000
+Canada,New Year's Day (Observed),New Year's Day,,CA,1971-12-31T00:00:00.0000000
+Mexico,AÃ±o Nuevo [New Year's Day] (Observed),AÃ±o Nuevo [New Year's Day],,MX,1971-12-31T00:00:00.0000000
+Sweden,NyÃ¥rsafton,NyÃ¥rsafton,,SE,1971-12-31T00:00:00.0000000
+United States,New Year's Day (Observed),New Year's Day,True,US,1971-12-31T00:00:00.0000000
+Argentina,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,AR,1972-01-01T00:00:00.0000000
+Australia,New Year's Day,New Year's Day,,AU,1972-01-01T00:00:00.0000000
+Austria,Neujahr,Neujahr,,AT,1972-01-01T00:00:00.0000000
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1972-01-01T00:00:00.0000000
+Brazil,Ano novo,Ano novo,,BR,1972-01-01T00:00:00.0000000
+Canada,New Year's Day,New Year's Day,,CA,1972-01-01T00:00:00.0000000
+Croatia,Nova Godina,Nova Godina,,HR,1972-01-01T00:00:00.0000000
+Czech,NovÃ½ rok,NovÃ½ rok,,CZ,1972-01-01T00:00:00.0000000
+Denmark,NytÃ¥rsdag,NytÃ¥rsdag,,DK,1972-01-01T00:00:00.0000000
+Finland,UudenvuodenpÃ¤ivÃ¤,UudenvuodenpÃ¤ivÃ¤,,FI,1972-01-01T00:00:00.0000000
+France,Jour de l'an,Jour de l'an,,FR,1972-01-01T00:00:00.0000000
+Hungary,ÃšjÃ©v,ÃšjÃ©v,,HU,1972-01-01T00:00:00.0000000
+Italy,Capodanno,Capodanno,,IT,1972-01-01T00:00:00.0000000
+Japan,å…ƒæ—¥,å…ƒæ—¥,,JP,1972-01-01T00:00:00.0000000
+Mexico,AÃ±o Nuevo [New Year's Day],AÃ±o Nuevo [New Year's Day],,MX,1972-01-01T00:00:00.0000000
+Netherlands,Nieuwjaarsdag,Nieuwjaarsdag,,NL,1972-01-01T00:00:00.0000000
+New Zealand,New Year's Day,New Year's Day,,NZ,1972-01-01T00:00:00.0000000
+Norway,FÃ¸rste nyttÃ¥rsdag,FÃ¸rste nyttÃ¥rsdag,,NO,1972-01-01T00:00:00.0000000
+Poland,Nowy Rok,Nowy Rok,,PL,1972-01-01T00:00:00.0000000
+Portugal,Ano Novo,Ano Novo,,PT,1972-01-01T00:00:00.0000000
+South Africa,New Year's Day,New Year's Day,,ZA,1972-01-01T00:00:00.0000000
+Spain,AÃ±o nuevo,AÃ±o nuevo,,ES,1972-01-01T00:00:00.0000000
+Sweden,NyÃ¥rsdagen,NyÃ¥rsdagen,,SE,1972-01-01T00:00:00.0000000
+Switzerland,Neujahrestag,Neujahrestag,,CH,1972-01-01T00:00:00.0000000
+Ukraine,ÐÐ¾Ð²Ð¸Ð¹ Ñ€Ñ–Ðº,ÐÐ¾Ð²Ð¸Ð¹ Ñ€Ñ–Ðº,,UA,1972-01-01T00:00:00.0000000
+United States,New Year's Day,New Year's Day,True,US,1972-01-01T00:00:00.0000000
+New Zealand,Day after New Year's Day,Day after New Year's Day,,NZ,1972-01-02T00:00:00.0000000
+Norway,SÃ¸ndag,SÃ¸ndag,,NO,1972-01-02T00:00:00.0000000
+Scotland,New Year Holiday,New Year Holiday,,,1972-01-02T00:00:00.0000000
+Sweden,SÃ¶ndag,SÃ¶ndag,,SE,1972-01-02T00:00:00.0000000
+United Kingdom,New Year Holiday [Scotland],New Year Holiday,True,GB,1972-01-02T00:00:00.0000000
+Australia,New Year's Day (Observed),New Year's Day,,AU,1972-01-03T00:00:00.0000000
+New Zealand,New Year's Day (Observed),New Year's Day,,NZ,1972-01-03T00:00:00.0000000
+New Zealand,Day after New Year's Day (Observed),Day after New Year's Day,,NZ,1972-01-04T00:00:00.0000000
+Scotland,New Year Holiday (Observed),New Year Holiday,,,1972-01-04T00:00:00.0000000
+United Kingdom,New Year Holiday [Scotland] (Observed),New Year Holiday,True,GB,1972-01-04T00:00:00.0000000
+Austria,Heilige Drei KÃ¶nige,Heilige Drei KÃ¶nige,,AT,1972-01-06T00:00:00.0000000
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1972-01-06T00:00:00.0000000
