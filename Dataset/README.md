@@ -1,15 +1,15 @@
 This folder contains 1000 datapoint examples of the 3 datasets used for the purpose of this analysis.
 
 
-1. NYC Taxi & Limousine Commission - yellow taxi trip records. This dataset is stored in Parquet format. There are about 1.5B rows (50GB) in total as of 2018.This dataset contains historical records accumulated from 2009 to 2018.
+1. NYC Taxi & Limousine Commission - yellow taxi trip records. This dataset is stored in Parquet format. There are about 1.5B rows (50GB) in total as of 2018.This dataset contains historical records accumulated from 2009 to 2018. View data example [here](https://github.com/RajdeepBiswas/NYC_Taxi/blob/master/Dataset/NYC_Taxi_Data.csv) 
 
 Blob location* : https://azureopendatastorage.blob.core.windows.net/nyctlc/yellow/puYear=*/puMonth=*/*.parquet
 
-2. Worldwide public holiday data sourced from PyPI holidays package and Wikipedia, covering 38 countries or regions from 1970 to 2099. This dataset is stored in Parquet format. It is a snapshot with holiday information from 1970-01-01 to 2099-01-01. The data size is about 500KB.
+2. Worldwide public holiday data sourced from PyPI holidays package and Wikipedia, covering 38 countries or regions from 1970 to 2099. This dataset is stored in Parquet format. It is a snapshot with holiday information from 1970-01-01 to 2099-01-01. The data size is about 500KB. View data example [here](https://github.com/RajdeepBiswas/NYC_Taxi/blob/master/Dataset/Public_Holidays_Data.csv)
 
 Blob location*: https://azureopendatastorage.blob.core.windows.net/holidaydatacontainer/Processed/*.parquet
 
-3. Worldwide hourly weather history data (example: temperature, precipitation, wind) sourced from the National Oceanic and Atmospheric Administration (NOAA).This dataset is stored in Parquet format. It is updated daily, and contains about 400M rows (20GB) in total as of 2019.This dataset contains historical records accumulated from 2008 to the present.
+3. Worldwide hourly weather history data (example: temperature, precipitation, wind) sourced from the National Oceanic and Atmospheric Administration (NOAA).This dataset is stored in Parquet format. It is updated daily, and contains about 400M rows (20GB) in total as of 2019.This dataset contains historical records accumulated from 2008 to the present. View data example [here](https://github.com/RajdeepBiswas/NYC_Taxi/blob/master/Dataset/Hourly_Weather_Data.csv)
 
 Blob location*: https://azureopendatastorage.blob.core.windows.net/isdweatherdatacontainer/ISDWeather/year=*/month=*/*.parquet
 
