@@ -1,1 +1,1 @@
-The Notebook folder contains the PySpark code written in Azure Synapse Analytics Notebook experience.
+The Notebook folder contains the PySpark code developed using Azure Synapse Analytics Notebook experience.
